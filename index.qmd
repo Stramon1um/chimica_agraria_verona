@@ -1,19 +1,22 @@
 ---
-title: "Laboratorio di Chimica Agraria (S13) - Univr"
+title: "Laboratorio di Chimica Agraria (S13)"
 ---
 
 ::: {style="font-size:18px;"}
 
-Testo da inserire
+___"Mai dire Mais"___ [semi cit.]
 
 :::
 
 ::: {.callout-note}
-**Responsabile Laboratorio**: Anita Zamboni - [email](mailto:anita.zamboni@univr.it)
+**Responsabile Laboratorio**:
+
+- Prof. Zeno Varanini - [email](mailto:zeno.varanini@univr.it)
+- Prof.sa Anita Zamboni - [email](mailto:anita.zamboni@univr.it)
 
 <!-- **Laboratory Technician**: Fabio Valentinuzzi - [email](mailto:fabio.valentinuzzi@unibz.it) [phone](tel:+39 0471017627)  -->
 
-for any update (deposit or withdrawal), please email me! --> [Mauro](mailto:mauro.maver@unibz.it?subject=[Update]%20Storage%20K-1%20and%20Lab%201.20)
+Per qualsiasi aggiornamento o info, scrivimi! --> [Mauro](mailto:mauro.maver@unibz.it?subject=[Update]%20Storage%20K-1%20and%20Lab%201.20)
 
 :::
 
