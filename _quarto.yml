@@ -26,6 +26,7 @@ website:
 
 format:
   html:
+    smooth-scroll: true
     theme: flatly
     css: styles.css
     toc: true
@@ -33,6 +34,6 @@ format:
 
 editor: source
 
-execute: 
-  freeze: auto
+execute:
+  freeze: auto # re-render only when source changes 
 
