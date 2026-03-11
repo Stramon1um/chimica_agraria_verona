@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "SDS List"
+  description: "SDS List Unibz"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+    background: primary
+  page-footer: 
+    right: "Creato da Mauro Maver" 
+    background: primary
+    foreground: primary
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+
+editor: source
+
+execute: 
+  freeze: auto
+

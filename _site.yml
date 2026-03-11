@@ -1,0 +1,32 @@
+name: "Storage"
+title: "Mauro Maver"
+author: "Mauro Maver"
+
+output_dir: "."  # for GitHub
+navbar:
+  right:
+    - icon: fa-envelope
+      href: mailto:mauro.maver@unibz.it
+    #- icon: fab fa-github
+    #  href: https://github.com/Stramon1um
+    #- icon: fab fa-twitter
+    #  href: https://twitter.com/Stramon1um
+    #- icon: fab fa-linkedin
+    #  href: https://www.linkedin.com/in/mauro-maver-633525b6/
+  left:
+    - text: "Storage K-1"
+    #  icon: fa-home
+      href: index.html
+      
+    - text: "Reagents"
+    #  icon: fa-info
+      href: page_2.html
+      
+    #- text: "Tabelle"
+    #  icon: fa-info
+    #  href: page_2.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    css: style.css
