@@ -3,4 +3,4 @@ title: "consumabili"
 format: html
 ---
 
-ciao da cansumabili
+ciao da consumabili
