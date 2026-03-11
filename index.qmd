@@ -9,10 +9,13 @@ ___"Mai dire Mais 🌽"___ [semi cit.]
 :::
 
 ::: {.callout-note}
-**Responsabile Laboratorio**:
 
-- Prof. Zeno Varanini - [email](mailto:zeno.varanini@univr.it)
-- Prof.sa Anita Zamboni - [email](mailto:anita.zamboni@univr.it)
+::: {style="font-size:18px;"}
+**Responsabili Laboratorio**:
+
+- 👨🏻‍💼 Prof. Zeno Varanini - [email](mailto:zeno.varanini@univr.it)
+
+- 👩🏻‍💼 Prof.sa Anita Zamboni - [email](mailto:anita.zamboni@univr.it)
 
 <!-- **Laboratory Technician**: Fabio Valentinuzzi - [email](mailto:fabio.valentinuzzi@unibz.it) [phone](tel:+39 0471017627)  -->
 
@@ -20,8 +23,17 @@ Per qualsiasi aggiornamento o info, scrivimi! --> [Mauro](mailto:mauro.maver@uni
 
 :::
 
+:::
+
 ::: {.callout-important}
-Call [112](tel:112) in case of Emergency
+
+::: {style="font-size:18px;"}
+
+🆘 In caso di emergenza chiamare --> XXXX o YYYY
+<!-- Call [112](tel:112) in case of Emergency -->
+
+:::
+
 :::
 
 Last update: 25 / 12 / 2025
