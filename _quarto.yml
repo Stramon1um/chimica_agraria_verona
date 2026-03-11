@@ -3,12 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "SDS List"
-  description: "SDS List Unibz"
+  title: "Lab Chimica Agraria "
+  description: "Descrizione..."
+  search: true
+  page-navigation: true
+  back-to-top-navigation: true
+  bread-crumbs: false
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - href: reagenti.qmd
+        text: Reagenti
+      - href: consumabili.qmd
+        text: Consumabili
+    right:
+      - icon: envelope-fill
+        href: mailto:mauro.maver@univr.it
     background: primary
   page-footer: 
     right: "Creato da Mauro Maver" 

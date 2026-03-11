@@ -1,0 +1,37 @@
+---
+title: "Titolo"
+---
+
+::: {style="font-size:18px;"}
+
+Testo da inserire
+
+:::
+
+::: {.callout-note}
+**Laboratory Responsible**: Anita Zamboni - [email](mailto:XXX)
+
+<!-- **Laboratory Technician**: Fabio Valentinuzzi - [email](mailto:fabio.valentinuzzi@unibz.it) [phone](tel:+39 0471017627)  -->
+
+for any update (deposit or withdrawal), please email me! --> [Mauro](mailto:mauro.maver@unibz.it?subject=[Update]%20Storage%20K-1%20and%20Lab%201.20)
+
+:::
+
+::: {.callout-important}
+Call [112](tel:112) in case of Emergency
+:::
+
+Last update: 25 / 12 / 2025
+
+------------------------------------------------------------------------
+
+#### Last changes:
+
+- 10/01/2023 - List updated - **Mauro**
+- 22/11/2022 - List updated - **Mauro**
+
+------------------------------------------------------------------------
+
+
+::: {style="font-size:20px;"}
+
