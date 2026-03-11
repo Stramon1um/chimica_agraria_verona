@@ -1,5 +1,5 @@
 ---
-title: "Titolo"
+title: "Laboratorio di Chimica Agraria (S13) - Univr"
 ---
 
 ::: {style="font-size:18px;"}
@@ -9,7 +9,7 @@ Testo da inserire
 :::
 
 ::: {.callout-note}
-**Laboratory Responsible**: Anita Zamboni - [email](mailto:XXX)
+**Responsabile Laboratorio**: Anita Zamboni - [email](mailto:anita.zamboni@univr.it)
 
 <!-- **Laboratory Technician**: Fabio Valentinuzzi - [email](mailto:fabio.valentinuzzi@unibz.it) [phone](tel:+39 0471017627)  -->
 
