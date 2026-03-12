@@ -4,7 +4,7 @@
     "href": "reagenti.html#a",
     "title": "💥 Reagenti",
     "section": "A",
-    "text": "A\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\n(3-Aminopropyl)trimethoxysilane\nS13\narmadio 1\n1\n20283-92-5\nSDS\n🟢"
+    "text": "A\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
   },
   {
     "objectID": "reagenti.html#b",
@@ -18,7 +18,7 @@
     "href": "reagenti.html#c",
     "title": "💥 Reagenti",
     "section": "C",
-    "text": "C\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\n(+)-Catechin\nS13\nfrigo\n1\n333338-18-4\nSDS\n🔴\n\n\nacido citrico monoidrato\nS13\nacidi\n100 g\n5949-29-1\nSDS\n🔴\n\n\nacido cloridrico, 37%\nS13\nacidi\n2,5 L\n7647-01-0\nSDS\n🔴"
+    "text": "C\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nacido citrico monoidrato\nS13\nacidi\n100 g\n5949-29-1\nSDS\n🔴\n\n\nacido cloridrico, 37%\nS13\nacidi\n2,5 L\n7647-01-0\nSDS\n🔴\n\n\nidrossido di colina\nS13\nbasi\n0,2 L\n123-41-1\nSDS\n🔴\n\n\nnitrato di calcio 15N\nS13\ncomb\n3 g\n31432-44-7\nSDS\n🔴\n\n\nnitrato di calcio tetraidrato\nS13\ncomb\n2000 g\n13477-34-4\nSDS\n🔴"
   },
   {
     "objectID": "reagenti.html#d",
@@ -39,7 +39,7 @@
     "href": "reagenti.html#f",
     "title": "💥 Reagenti",
     "section": "F",
-    "text": "F\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nacido fosforico 85%\nS13\nacidi\n1,5 L\n7664-38-2\nSDS\n🔴"
+    "text": "F\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nacido fosforico 85%\nS13\nacidi\n1,5 L\n7664-38-2\nSDS\n🔴\n\n\ncloruro di ferro(III) esaidrato\nS13\nacidi\n105 g\n10025-77-1\nSDS\n🔴\n\n\nreagente di Fenolo di Folin-Ciocalteu\nS13\nacidi\n0,1 L\n\nSDS\n🔴\n\n\nnitrato di ferro(III) nonaidrato\nS13\ncomb\n1000 g\n7782-61-8\nSDS\n🔴"
   },
   {
     "objectID": "reagenti.html#g",
@@ -81,7 +81,7 @@
     "href": "reagenti.html#l",
     "title": "💥 Reagenti",
     "section": "L",
-    "text": "L\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+    "text": "L\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nLysis buffer Plasmid Mini KIT (L7)\nS13\ncomb\n0,072 L\n1310-73-2; 151-21-3\nSDS\n🔴"
   },
   {
     "objectID": "reagenti.html#m",
@@ -95,7 +95,7 @@
     "href": "reagenti.html#n",
     "title": "💥 Reagenti",
     "section": "N",
-    "text": "N\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+    "text": "N\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\npotassio nitrato 15N\nS13\ncomb\n53 g\n57654-83-8\nSDS\n🔴\n\n\npotassio nitrato\nS13\ncomb\n1500 g\n7757-79-1\nSDS\n🔴"
   },
   {
     "objectID": "reagenti.html#o",
@@ -109,7 +109,7 @@
     "href": "reagenti.html#p",
     "title": "💥 Reagenti",
     "section": "P",
-    "text": "P\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+    "text": "P\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nidrossido di potassio\nS13\nbasi\n500 g\n1310-58-3\nSDS\n🔴"
   },
   {
     "objectID": "reagenti.html#q",
@@ -130,7 +130,7 @@
     "href": "reagenti.html#s",
     "title": "💥 Reagenti",
     "section": "S",
-    "text": "S\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nacido salicilico\nS13\nacidi\n1000 g\n69-72-7\nSDS\n🔴\n\n\nacido solforico 96%\nS13\nacidi\n2,5 L\n7664-93-9\nSDS\n🔴"
+    "text": "S\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nacido salicilico\nS13\nacidi\n1000 g\n69-72-7\nSDS\n🔴\n\n\nacido solforico 96%\nS13\nacidi\n2,5 L\n7664-93-9\nSDS\n🔴\n\n\nidrossido di sodio\nS13\nbasi\n2000 g\n1310-73-2\nSDS\n🔴"
   },
   {
     "objectID": "reagenti.html#t",
