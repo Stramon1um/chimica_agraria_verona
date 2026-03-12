@@ -98,60 +98,60 @@ solfato di zinco eptaidrato;;;;1000 g;;S13;tossici;Z;;;7446-20-0;;alto
 SS-Perfosfato triplo;;;;1410 g;;S13;tossici;P;;;8011-76-5;;alto
 tartrato di antimonio (III) e potassio idrato;;;;100 g;;S13;tossici;A;;;331753-56-1;;alto
 Trizma-base;;;;1000 g;;S13;tossici;T;;;77-86-1;;alto
-acetato di sodio triidrato;;;;250;;S13;No tossici;A;;;6131-90-4;;medio
-acido L-ascorbico;;;;1100;;S13;No tossici;A;;;50-81-7;;medio
-acido tetraacetico etilenico -bis(2-aminoetiletere)-N,N,N_,N_;;;;100;;S13;No tossici;A;;;67-42-5;;medio
-agar;;;;1000;;S13;No tossici;A;;;9002-18-0;;medio
-agarosio;;;;500;;S13;No tossici;A;;;9012-36-6;;medio
-ammonio fosfato monobasico;;;;500;;S13;No tossici;A;;;7722-76-1;;medio
-bicarbonato di sodio;;;;1500;;S13;No tossici;B;;;144-55-8;;medio
-bicina;;;;25;;S13;No tossici;B;;;150-25-4;;medio
-BIS-TRIS propano;;;;200;;S13;No tossici;B;;;64431-96-5;;medio
-blu bromofenolo;;;;25;;S13;No tossici;B;;;115-39-9;;medio
-blu destrano;;;;5;;S13;No tossici;B;;;87915-38-6;;medio
-Brilliant blue R;;;;25;;S13;No tossici;B;;;6104-59-2;;medio
-calcio solfato diidradato;;;;1000;;S13;No tossici;C;;;10101-41-4;;medio
-calcio solfato emiidrato;;;;1000;;S13;No tossici;C;;;10034-76-1;;medio
-Carbonato di calcio;;;;3000;;S13;No tossici;C;;;471-34-1;;medio
-carbone attivo;;;;250;;S13;No tossici;C;;;7440-44-0;;medio
-caseina di latte di mucca;;;;100;;S13;No tossici;C;;;9000-71-9;;medio
-cellulosa fosfato;;;;100;;S13;No tossici;C;;;9015-14-9;;medio
-citrato di sodio tribasico diidrato;;;;2000;;S13;No tossici;C;;;03/04/32;;medio
-cloruro di magnesio esaidrato;;;;1000;;S13;No tossici;M;;;7791-18-6;;medio
-cloruro di potassio;;;;1000;;S13;No tossici;P;;;7447-40-7;;medio
-cloruro di sodio;;;;3000;;S13;No tossici;S;;;7647-14-5;;medio
-destrano;;;;50;;S13;No tossici;D;;;9004-54-0;;medio
-Drierite, senza indicatore;;;;500;;S13;No tossici;D;;;7778-18-9;;medio
-D-glucosio;;;;100;;S13;No tossici;G;;;50-99-7;;medio
-D-glucosio monoidrato;;;;1000;;S13;No tossici;G;;;01/10/96;;medio
-D-sorbitolo;;;;1000;;S13;No tossici;S;;;50-70-4;;medio
-estratto di lievito;;;;1500;;S13;No tossici;E;;;02/01/13;;medio
-EDDHA ferric;;;;1250;;S13;No tossici;E;;;84539-55-9;;medio
-fosfato di potassio monobasico;;;;1500;;S13;No tossici;P;;;7778-77-0;;medio
-fosfato di potassio dibasico;;;;1000;;S13;No tossici;P;;;04/11/58;;medio
-fosfato di sodio dibasico eptaidrato;;;;1000;;S13;No tossici;S;;;7782-85-6;;medio
-fosfato di sodio monobasico;;;;1000;;S13;No tossici;S;;;13472-35-0;;medio
-glicerina;;;;0.5 L;;S13;No tossici;G;;;56-81-5;;medio
-glicerolo;;;;1 L;;S13;No tossici;G;;;56-81-5;;medio
-glicina;;;;3000;;S13;No tossici;G;;;56-40-6;;medio
-goethite;;;;200;;S13;No tossici;G;;;20344-49-4;;medio
-LB-brodo, contenuto di sale alto;;;;1000;;S13;No tossici;L;;;;;medio
-L-tirosina;;;;50;;S13;No tossici;T;;;60-18-4;;medio
-litio acetato diidrato;;;;25;;S13;No tossici;L;;;6108-17-4;;medio
-MES idrato;;;;350;;S13;No tossici;M;;;145224-94-8;;medio
-"""miscela per lieviti Yeast Nitrogen Base senza amminoacidi""";;;;250;;S13;No tossici;M;;;10043-52-4;;medio
-molibdato di sodio diidrato;;;;400;;S13;No tossici;M;;;10102-40-6;;medio
-N-dodecyl beta-D-maltoside;;;;0,5;;S13;No tossici;M;;;69227-93-6;;medio
-peptone;;;;500;;S13;No tossici;P;;;73049-73-7;;medio
-phyto agar;;;;2000;;S13;No tossici;P;;;9002-18-0;;medio
-polietilenglicole;;;;600;;S13;No tossici;P;;;25322-68-3;;medio
-polietilenglicole 6000;;;;1000;;S13;No tossici;P;;;25322-68-3;;medio
-potassio citrato tribascio monoidrato;;;;500;;S13;No tossici;P;;;06/05/00;;medio
-potassio solfato;;;;2000;;S13;No tossici;P;;;7778-80-5;;medio
-saccarosio;;;;1000;;S13;No tossici;S;;;57-50-1;;medio
-solfato di magnesio eptaidrato;;;;2500;;S13;No tossici;M;;;10034-99-8;;medio
-solfito di sodio;;;;250;;S13;No tossici;S;;;7757-83-7;;medio
-triptone;;;;1500;;S13;No tossici;T;;;91079-40-2;;medio
-trisodio citrato diidrato;;;;500;;S13;No tossici;C;;;03/04/32;;medio
-urea;;;;1000;;S13;No tossici;U;;;57-13-6;;medio
-Yeast synthetic drop-out-medium supplements;;;;20;;S13;No tossici;Y;;;;;medio
+acetato di sodio triidrato;;;;250;;S13;No tossici;A;;;6131-90-4;;basso
+acido L-ascorbico;;;;1100;;S13;No tossici;A;;;50-81-7;;basso
+acido tetraacetico etilenico-bis(2-aminoetiletere)-N,N,N,N;;;;100;;S13;No tossici;A;;;67-42-5;;basso
+agar;;;;1000;;S13;No tossici;A;;;9002-18-0;;basso
+agarosio;;;;500;;S13;No tossici;A;;;9012-36-6;;basso
+ammonio fosfato monobasico;;;;500;;S13;No tossici;A;;;7722-76-1;;basso
+bicarbonato di sodio;;;;1500;;S13;No tossici;B;;;144-55-8;;basso
+bicina;;;;25;;S13;No tossici;B;;;150-25-4;;basso
+BIS-TRIS propano;;;;200;;S13;No tossici;B;;;64431-96-5;;basso
+blu bromofenolo;;;;25;;S13;No tossici;B;;;115-39-9;;basso
+blu destrano;;;;5;;S13;No tossici;B;;;87915-38-6;;basso
+Brilliant blue R;;;;25;;S13;No tossici;B;;;6104-59-2;;basso
+calcio solfato diidradato;;;;1000;;S13;No tossici;C;;;10101-41-4;;basso
+calcio solfato emiidrato;;;;1000;;S13;No tossici;C;;;10034-76-1;;basso
+Carbonato di calcio;;;;3000;;S13;No tossici;C;;;471-34-1;;basso
+carbone attivo;;;;250;;S13;No tossici;C;;;7440-44-0;;basso
+caseina di latte di mucca;;;;100;;S13;No tossici;C;;;9000-71-9;;basso
+cellulosa fosfato;;;;100;;S13;No tossici;C;;;9015-14-9;;basso
+citrato di sodio tribasico diidrato;;;;2000;;S13;No tossici;C;;;03/04/32;;basso
+cloruro di magnesio esaidrato;;;;1000;;S13;No tossici;M;;;7791-18-6;;basso
+cloruro di potassio;;;;1000;;S13;No tossici;P;;;7447-40-7;;basso
+cloruro di sodio;;;;3000;;S13;No tossici;S;;;7647-14-5;;basso
+destrano;;;;50;;S13;No tossici;D;;;9004-54-0;;basso
+Drierite, senza indicatore;;;;500;;S13;No tossici;D;;;7778-18-9;;basso
+D-glucosio;;;;100;;S13;No tossici;G;;;50-99-7;;basso
+D-glucosio monoidrato;;;;1000;;S13;No tossici;G;;;01/10/96;;basso
+D-sorbitolo;;;;1000;;S13;No tossici;S;;;50-70-4;;basso
+estratto di lievito;;;;1500;;S13;No tossici;E;;;02/01/13;;basso
+EDDHA ferric;;;;1250;;S13;No tossici;E;;;84539-55-9;;basso
+fosfato di potassio monobasico;;;;1500;;S13;No tossici;P;;;7778-77-0;;basso
+fosfato di potassio dibasico;;;;1000;;S13;No tossici;P;;;04/11/58;;basso
+fosfato di sodio dibasico eptaidrato;;;;1000;;S13;No tossici;S;;;7782-85-6;;basso
+fosfato di sodio monobasico;;;;1000;;S13;No tossici;S;;;13472-35-0;;basso
+glicerina;;;;0.5 L;;S13;No tossici;G;;;56-81-5;;basso
+glicerolo;;;;1 L;;S13;No tossici;G;;;56-81-5;;basso
+glicina;;;;3000;;S13;No tossici;G;;;56-40-6;;basso
+goethite;;;;200;;S13;No tossici;G;;;20344-49-4;;basso
+LB-brodo, contenuto di sale alto;;;;1000;;S13;No tossici;L;;;;;basso
+L-tirosina;;;;50;;S13;No tossici;T;;;60-18-4;;basso
+litio acetato diidrato;;;;25;;S13;No tossici;L;;;6108-17-4;;basso
+MES idrato;;;;350;;S13;No tossici;M;;;145224-94-8;;basso
+"""miscela per lieviti Yeast Nitrogen Base senza amminoacidi""";;;;250;;S13;No tossici;M;;;10043-52-4;;basso
+molibdato di sodio diidrato;;;;400;;S13;No tossici;M;;;10102-40-6;;basso
+N-dodecyl beta-D-maltoside;;;;0,5;;S13;No tossici;M;;;69227-93-6;;basso
+peptone;;;;500;;S13;No tossici;P;;;73049-73-7;;basso
+phyto agar;;;;2000;;S13;No tossici;P;;;9002-18-0;;basso
+polietilenglicole;;;;600;;S13;No tossici;P;;;25322-68-3;;basso
+polietilenglicole 6000;;;;1000;;S13;No tossici;P;;;25322-68-3;;basso
+potassio citrato tribascio monoidrato;;;;500;;S13;No tossici;P;;;06/05/00;;basso
+potassio solfato;;;;2000;;S13;No tossici;P;;;7778-80-5;;basso
+saccarosio;;;;1000;;S13;No tossici;S;;;57-50-1;;basso
+solfato di magnesio eptaidrato;;;;2500;;S13;No tossici;M;;;10034-99-8;;basso
+solfito di sodio;;;;250;;S13;No tossici;S;;;7757-83-7;;basso
+triptone;;;;1500;;S13;No tossici;T;;;91079-40-2;;basso
+trisodio citrato diidrato;;;;500;;S13;No tossici;C;;;03/04/32;;basso
+urea;;;;1000;;S13;No tossici;U;;;57-13-6;;basso
+Yeast synthetic drop-out-medium supplements;;;;20;;S13;No tossici;Y;;;;;basso

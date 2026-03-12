@@ -4,35 +4,35 @@
     "href": "reagenti.html#a",
     "title": "💥 Reagenti",
     "section": "A",
-    "text": "A\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nalbumina di siero bovino\nS13\nfrigo-freezer\n\n9048-46-8\nSDS\n🟠\n\n\nampicillina sale sodico\nS13\nfrigo-freezer\n\n69-52-3\nSDS\n🟠\n\n\nacetone\nS13\ninfiamm\n1\n67-64-1\nSDS\n🔴\n\n\nacido acetico 100%\nS13\ninfiamm\n2,5\n64-19-7\nSDS\n🔴\n\n\nadenina emisolfato sale\nS13\ntossici\n5 g\n321-30-2\nSDS\n🔴\n\n\nazide di sodio\nS13\ntossici\n100 g\n26628-22-8\nSDS\n🔴\n\n\ncloruro di ammonio\nS13\ntossici\n500 g\n12125-02-9\nSDS\n🔴\n\n\nsolfato di ammonio\nS13\ntossici\n100 g\n7783-20-2\nSDS\n🔴\n\n\ntartrato di antimonio (III) e potassio idrato\nS13\ntossici\n100 g\n331753-56-1\nSDS\n🔴\n\n\nacetato di sodio triidrato\nS13\nNo tossici\n250\n6131-90-4\nSDS\n🟠\n\n\nacido L-ascorbico\nS13\nNo tossici\n1100\n50-81-7\nSDS\n🟠\n\n\nacido tetraacetico etilenico -bis(2-aminoetiletere)-N,N,N_,N_\nS13\nNo tossici\n100\n67-42-5\nSDS\n🟠\n\n\nagar\nS13\nNo tossici\n1000\n9002-18-0\nSDS\n🟠\n\n\nagarosio\nS13\nNo tossici\n500\n9012-36-6\nSDS\n🟠\n\n\nammonio fosfato monobasico\nS13\nNo tossici\n500\n7722-76-1\nSDS\n🟠"
+    "text": "A\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nalbumina di siero bovino\nS13\nfrigo-freezer\n\n9048-46-8\nSDS\n🟠\n\n\nampicillina sale sodico\nS13\nfrigo-freezer\n\n69-52-3\nSDS\n🟠\n\n\nacetone\nS13\ninfiamm\n1\n67-64-1\nSDS\n🔴\n\n\nacido acetico 100%\nS13\ninfiamm\n2,5\n64-19-7\nSDS\n🔴\n\n\nadenina emisolfato sale\nS13\ntossici\n5 g\n321-30-2\nSDS\n🔴\n\n\nazide di sodio\nS13\ntossici\n100 g\n26628-22-8\nSDS\n🔴\n\n\ncloruro di ammonio\nS13\ntossici\n500 g\n12125-02-9\nSDS\n🔴\n\n\nsolfato di ammonio\nS13\ntossici\n100 g\n7783-20-2\nSDS\n🔴\n\n\ntartrato di antimonio (III) e potassio idrato\nS13\ntossici\n100 g\n331753-56-1\nSDS\n🔴\n\n\nacetato di sodio triidrato\nS13\nNo tossici\n250\n6131-90-4\nSDS\n🟢\n\n\nacido L-ascorbico\nS13\nNo tossici\n1100\n50-81-7\nSDS\n🟢\n\n\nacido tetraacetico etilenico-bis(2-aminoetiletere)-N,N,N,N\nS13\nNo tossici\n100\n67-42-5\nSDS\n🟢\n\n\nagar\nS13\nNo tossici\n1000\n9002-18-0\nSDS\n🟢\n\n\nagarosio\nS13\nNo tossici\n500\n9012-36-6\nSDS\n🟢\n\n\nammonio fosfato monobasico\nS13\nNo tossici\n500\n7722-76-1\nSDS\n🟢"
   },
   {
     "objectID": "reagenti.html#b",
     "href": "reagenti.html#b",
     "title": "💥 Reagenti",
     "section": "B",
-    "text": "B\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nacido borico\nS13\nacidi\n500 g\n10043-35-3\nSDS\n🔴\n\n\nbicarbonato di sodio\nS13\nNo tossici\n1500\n144-55-8\nSDS\n🟠\n\n\nbicina\nS13\nNo tossici\n25\n150-25-4\nSDS\n🟠\n\n\nBIS-TRIS propano\nS13\nNo tossici\n200\n64431-96-5\nSDS\n🟠\n\n\nblu bromofenolo\nS13\nNo tossici\n25\n115-39-9\nSDS\n🟠\n\n\nblu destrano\nS13\nNo tossici\n5\n87915-38-6\nSDS\n🟠\n\n\nBrilliant blue R\nS13\nNo tossici\n25\n6104-59-2\nSDS\n🟠"
+    "text": "B\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nacido borico\nS13\nacidi\n500 g\n10043-35-3\nSDS\n🔴\n\n\nbicarbonato di sodio\nS13\nNo tossici\n1500\n144-55-8\nSDS\n🟢\n\n\nbicina\nS13\nNo tossici\n25\n150-25-4\nSDS\n🟢\n\n\nBIS-TRIS propano\nS13\nNo tossici\n200\n64431-96-5\nSDS\n🟢\n\n\nblu bromofenolo\nS13\nNo tossici\n25\n115-39-9\nSDS\n🟢\n\n\nblu destrano\nS13\nNo tossici\n5\n87915-38-6\nSDS\n🟢\n\n\nBrilliant blue R\nS13\nNo tossici\n25\n6104-59-2\nSDS\n🟢"
   },
   {
     "objectID": "reagenti.html#c",
     "href": "reagenti.html#c",
     "title": "💥 Reagenti",
     "section": "C",
-    "text": "C\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nacido citrico monoidrato\nS13\nacidi\n100 g\n5949-29-1\nSDS\n🔴\n\n\nacido cloridrico, 37%\nS13\nacidi\n2,5 L\n7647-01-0\nSDS\n🔴\n\n\nidrossido di colina\nS13\nbasi\n0,2 L\n123-41-1\nSDS\n🔴\n\n\nnitrato di calcio 15N\nS13\ncomb\n3 g\n31432-44-7\nSDS\n🔴\n\n\nnitrato di calcio tetraidrato\nS13\ncomb\n2000 g\n13477-34-4\nSDS\n🔴\n\n\ncalcio nitrato soluzione 0.5 M\nS13\nfrigo-freezer\n\n13477-34-4\nSDS\n🟠\n\n\ncalcio solfato soluzione 10 mM\nS13\nfrigo-freezer\n\n10034-76-1\nSDS\n🟠\n\n\nchimostatina\nS13\nfrigo-freezer\n\n9076-44-2\nSDS\n🟠\n\n\nCollagene\nS13\nfrigo-freezer\n\n9007-34-5\nSDS\n🟠\n\n\ncloruro di calcio\nS13\ntossici\n500 g\n10043-52-4\nSDS\n🔴\n\n\ncloruro di colina\nS13\ntossici\n100 g\n67-48-1\nSDS\n🔴\n\n\ncolina ioduro\nS13\ntossici\n250 g\n17773-10-3\nSDS\n🔴\n\n\ncalcio solfato diidradato\nS13\nNo tossici\n1000\n10101-41-4\nSDS\n🟠\n\n\ncalcio solfato emiidrato\nS13\nNo tossici\n1000\n10034-76-1\nSDS\n🟠\n\n\nCarbonato di calcio\nS13\nNo tossici\n3000\n471-34-1\nSDS\n🟠\n\n\ncarbone attivo\nS13\nNo tossici\n250\n7440-44-0\nSDS\n🟠\n\n\ncaseina di latte di mucca\nS13\nNo tossici\n100\n9000-71-9\nSDS\n🟠\n\n\ncellulosa fosfato\nS13\nNo tossici\n100\n9015-14-9\nSDS\n🟠\n\n\ncitrato di sodio tribasico diidrato\nS13\nNo tossici\n2000\n03/04/32\nSDS\n🟠\n\n\ntrisodio citrato diidrato\nS13\nNo tossici\n500\n03/04/32\nSDS\n🟠"
+    "text": "C\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nacido citrico monoidrato\nS13\nacidi\n100 g\n5949-29-1\nSDS\n🔴\n\n\nacido cloridrico, 37%\nS13\nacidi\n2,5 L\n7647-01-0\nSDS\n🔴\n\n\nidrossido di colina\nS13\nbasi\n0,2 L\n123-41-1\nSDS\n🔴\n\n\nnitrato di calcio 15N\nS13\ncomb\n3 g\n31432-44-7\nSDS\n🔴\n\n\nnitrato di calcio tetraidrato\nS13\ncomb\n2000 g\n13477-34-4\nSDS\n🔴\n\n\ncalcio nitrato soluzione 0.5 M\nS13\nfrigo-freezer\n\n13477-34-4\nSDS\n🟠\n\n\ncalcio solfato soluzione 10 mM\nS13\nfrigo-freezer\n\n10034-76-1\nSDS\n🟠\n\n\nchimostatina\nS13\nfrigo-freezer\n\n9076-44-2\nSDS\n🟠\n\n\nCollagene\nS13\nfrigo-freezer\n\n9007-34-5\nSDS\n🟠\n\n\ncloruro di calcio\nS13\ntossici\n500 g\n10043-52-4\nSDS\n🔴\n\n\ncloruro di colina\nS13\ntossici\n100 g\n67-48-1\nSDS\n🔴\n\n\ncolina ioduro\nS13\ntossici\n250 g\n17773-10-3\nSDS\n🔴\n\n\ncalcio solfato diidradato\nS13\nNo tossici\n1000\n10101-41-4\nSDS\n🟢\n\n\ncalcio solfato emiidrato\nS13\nNo tossici\n1000\n10034-76-1\nSDS\n🟢\n\n\nCarbonato di calcio\nS13\nNo tossici\n3000\n471-34-1\nSDS\n🟢\n\n\ncarbone attivo\nS13\nNo tossici\n250\n7440-44-0\nSDS\n🟢\n\n\ncaseina di latte di mucca\nS13\nNo tossici\n100\n9000-71-9\nSDS\n🟢\n\n\ncellulosa fosfato\nS13\nNo tossici\n100\n9015-14-9\nSDS\n🟢\n\n\ncitrato di sodio tribasico diidrato\nS13\nNo tossici\n2000\n03/04/32\nSDS\n🟢\n\n\ntrisodio citrato diidrato\nS13\nNo tossici\n500\n03/04/32\nSDS\n🟢"
   },
   {
     "objectID": "reagenti.html#d",
     "href": "reagenti.html#d",
     "title": "💥 Reagenti",
     "section": "D",
-    "text": "D\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\n10 MM DNTP MIX\nS13\nfrigo-freezer\n\n\nSDS\n🟠\n\n\nacido 2'-deossimugineico\nS13\nfrigo-freezer\n\n74235-24-8\nSDS\n🟠\n\n\ndestrano\nS13\nNo tossici\n50\n9004-54-0\nSDS\n🟠\n\n\nDrierite, senza indicatore\nS13\nNo tossici\n500\n7778-18-9\nSDS\n🟠"
+    "text": "D\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\n10 MM DNTP MIX\nS13\nfrigo-freezer\n\n\nSDS\n🟠\n\n\nacido 2'-deossimugineico\nS13\nfrigo-freezer\n\n74235-24-8\nSDS\n🟠\n\n\ndestrano\nS13\nNo tossici\n50\n9004-54-0\nSDS\n🟢\n\n\nDrierite, senza indicatore\nS13\nNo tossici\n500\n7778-18-9\nSDS\n🟢"
   },
   {
     "objectID": "reagenti.html#e",
     "href": "reagenti.html#e",
     "title": "💥 Reagenti",
     "section": "E",
-    "text": "E\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nEuroSafe Fluorescent Nucleic Acid Stain 20.000X\nS13\nfrigo-freezer\n\n\nSDS\n🟠\n\n\netanolo\nS13\ninfiamm\n4,5\n64-17-5\nSDS\n🔴\n\n\nacido dietilentriammin-pentaacetico (EDPA)\nS13\ntossici\n250 g\n67-43-6\nSDS\n🔴\n\n\nacido etilendiamminotetraacetico, sale disodico (Na-EDTA)\nS13\ntossici\n250 g\n6381-92-6\nSDS\n🔴\n\n\nEDTA sale monosodico di ferro\nS13\ntossici\n500 g\n15708-41-5\nSDS\n🔴\n\n\nestratto di lievito\nS13\nNo tossici\n1500\n02/01/13\nSDS\n🟠\n\n\nEDDHA ferric\nS13\nNo tossici\n1250\n84539-55-9\nSDS\n🟠"
+    "text": "E\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nEuroSafe Fluorescent Nucleic Acid Stain 20.000X\nS13\nfrigo-freezer\n\n\nSDS\n🟠\n\n\netanolo\nS13\ninfiamm\n4,5\n64-17-5\nSDS\n🔴\n\n\nacido dietilentriammin-pentaacetico (EDPA)\nS13\ntossici\n250 g\n67-43-6\nSDS\n🔴\n\n\nacido etilendiamminotetraacetico, sale disodico (Na-EDTA)\nS13\ntossici\n250 g\n6381-92-6\nSDS\n🔴\n\n\nEDTA sale monosodico di ferro\nS13\ntossici\n500 g\n15708-41-5\nSDS\n🔴\n\n\nestratto di lievito\nS13\nNo tossici\n1500\n02/01/13\nSDS\n🟢\n\n\nEDDHA ferric\nS13\nNo tossici\n1250\n84539-55-9\nSDS\n🟢"
   },
   {
     "objectID": "reagenti.html#f",
@@ -46,7 +46,7 @@
     "href": "reagenti.html#g",
     "title": "💥 Reagenti",
     "section": "G",
-    "text": "G\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nGateway KIT\nS13\nfrigo-freezer\n\n39450-01-6, 56-81-5,\nSDS\n🟠\n\n\nGoScript Reverse Transcriptase\nS13\nfrigo-freezer\n\n1185-53-1\nSDS\n🟠\n\n\nGO Taq G2 DNA polymerase (Promega)\nS13\nfrigo-freezer\n\n56-81-5; 57-50-1\nSDS\n🟠\n\n\nbeta-D-glucopiranoside di 4-nitrofenile\nS13\nfrigo-freezer\n\n2492-87-7\nSDS\n🟠\n\n\nD-glucosio\nS13\nNo tossici\n100\n50-99-7\nSDS\n🟠\n\n\nD-glucosio monoidrato\nS13\nNo tossici\n1000\n01/10/96\nSDS\n🟠\n\n\nglicerina\nS13\nNo tossici\n0.5 L\n56-81-5\nSDS\n🟠\n\n\nglicerolo\nS13\nNo tossici\n1 L\n56-81-5\nSDS\n🟠\n\n\nglicina\nS13\nNo tossici\n3000\n56-40-6\nSDS\n🟠\n\n\ngoethite\nS13\nNo tossici\n200\n20344-49-4\nSDS\n🟠"
+    "text": "G\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nGateway KIT\nS13\nfrigo-freezer\n\n39450-01-6, 56-81-5,\nSDS\n🟠\n\n\nGoScript Reverse Transcriptase\nS13\nfrigo-freezer\n\n1185-53-1\nSDS\n🟠\n\n\nGO Taq G2 DNA polymerase (Promega)\nS13\nfrigo-freezer\n\n56-81-5; 57-50-1\nSDS\n🟠\n\n\nbeta-D-glucopiranoside di 4-nitrofenile\nS13\nfrigo-freezer\n\n2492-87-7\nSDS\n🟠\n\n\nD-glucosio\nS13\nNo tossici\n100\n50-99-7\nSDS\n🟢\n\n\nD-glucosio monoidrato\nS13\nNo tossici\n1000\n01/10/96\nSDS\n🟢\n\n\nglicerina\nS13\nNo tossici\n0.5 L\n56-81-5\nSDS\n🟢\n\n\nglicerolo\nS13\nNo tossici\n1 L\n56-81-5\nSDS\n🟢\n\n\nglicina\nS13\nNo tossici\n3000\n56-40-6\nSDS\n🟢\n\n\ngoethite\nS13\nNo tossici\n200\n20344-49-4\nSDS\n🟢"
   },
   {
     "objectID": "reagenti.html#h",
@@ -81,14 +81,14 @@
     "href": "reagenti.html#l",
     "title": "💥 Reagenti",
     "section": "L",
-    "text": "L\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nLysis buffer Plasmid Mini KIT (L7)\nS13\ncomb\n0,072 L\n1310-73-2; 151-21-3\nSDS\n🔴\n\n\nlatte in polvere senza grassi\nS13\nfrigo-freezer\n\n\nSDS\n🟠\n\n\nreattivo di Lugol\nS13\ntossici\n0,1 L\n\nSDS\n🔴\n\n\nLB-brodo, contenuto di sale alto\nS13\nNo tossici\n1000\n\nSDS\n🟠\n\n\nlitio acetato diidrato\nS13\nNo tossici\n25\n6108-17-4\nSDS\n🟠"
+    "text": "L\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nLysis buffer Plasmid Mini KIT (L7)\nS13\ncomb\n0,072 L\n1310-73-2; 151-21-3\nSDS\n🔴\n\n\nlatte in polvere senza grassi\nS13\nfrigo-freezer\n\n\nSDS\n🟠\n\n\nreattivo di Lugol\nS13\ntossici\n0,1 L\n\nSDS\n🔴\n\n\nLB-brodo, contenuto di sale alto\nS13\nNo tossici\n1000\n\nSDS\n🟢\n\n\nlitio acetato diidrato\nS13\nNo tossici\n25\n6108-17-4\nSDS\n🟢"
   },
   {
     "objectID": "reagenti.html#m",
     "href": "reagenti.html#m",
     "title": "💥 Reagenti",
     "section": "M",
-    "text": "M\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nmalvidina 3-glucoside cloruro\nS13\nfrigo-freezer\n\n7228-78-6\nSDS\n🟠\n\n\nmetanolo\nS13\ninfiamm\n5\n67-56-1\nSDS\n🔴\n\n\nacido 3-morfolino-propansolfonico (MOPS)\nS13\ntossici\n100 g\n1132-61-2\nSDS\n🔴\n\n\nammonio molibdato tetraidrato\nS13\ntossici\n200 g\n12054-85-2\nSDS\n🔴\n\n\ncloruro di manganese (II) tetraidrato\nS13\ntossici\n33 g\n13446-34-9\nSDS\n🔴\n\n\nMurashige and Skooge medium\nS13\ntossici\n646 g\n\nSDS\n🔴\n\n\nsolfato di manganese (II) monoidrato\nS13\ntossici\n1000 g\n10034-96-5\nSDS\n🔴\n\n\ncloruro di magnesio esaidrato\nS13\nNo tossici\n1000\n7791-18-6\nSDS\n🟠\n\n\nMES idrato\nS13\nNo tossici\n350\n145224-94-8\nSDS\n🟠\n\n\n\"miscela per lieviti Yeast Nitrogen Base senza amminoacidi\"\nS13\nNo tossici\n250\n10043-52-4\nSDS\n🟠\n\n\nmolibdato di sodio diidrato\nS13\nNo tossici\n400\n10102-40-6\nSDS\n🟠\n\n\nN-dodecyl beta-D-maltoside\nS13\nNo tossici\n0,5\n69227-93-6\nSDS\n🟠\n\n\nsolfato di magnesio eptaidrato\nS13\nNo tossici\n2500\n10034-99-8\nSDS\n🟠"
+    "text": "M\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nmalvidina 3-glucoside cloruro\nS13\nfrigo-freezer\n\n7228-78-6\nSDS\n🟠\n\n\nmetanolo\nS13\ninfiamm\n5\n67-56-1\nSDS\n🔴\n\n\nacido 3-morfolino-propansolfonico (MOPS)\nS13\ntossici\n100 g\n1132-61-2\nSDS\n🔴\n\n\nammonio molibdato tetraidrato\nS13\ntossici\n200 g\n12054-85-2\nSDS\n🔴\n\n\ncloruro di manganese (II) tetraidrato\nS13\ntossici\n33 g\n13446-34-9\nSDS\n🔴\n\n\nMurashige and Skooge medium\nS13\ntossici\n646 g\n\nSDS\n🔴\n\n\nsolfato di manganese (II) monoidrato\nS13\ntossici\n1000 g\n10034-96-5\nSDS\n🔴\n\n\ncloruro di magnesio esaidrato\nS13\nNo tossici\n1000\n7791-18-6\nSDS\n🟢\n\n\nMES idrato\nS13\nNo tossici\n350\n145224-94-8\nSDS\n🟢\n\n\n\"miscela per lieviti Yeast Nitrogen Base senza amminoacidi\"\nS13\nNo tossici\n250\n10043-52-4\nSDS\n🟢\n\n\nmolibdato di sodio diidrato\nS13\nNo tossici\n400\n10102-40-6\nSDS\n🟢\n\n\nN-dodecyl beta-D-maltoside\nS13\nNo tossici\n0,5\n69227-93-6\nSDS\n🟢\n\n\nsolfato di magnesio eptaidrato\nS13\nNo tossici\n2500\n10034-99-8\nSDS\n🟢"
   },
   {
     "objectID": "reagenti.html#n",
@@ -109,7 +109,7 @@
     "href": "reagenti.html#p",
     "title": "💥 Reagenti",
     "section": "P",
-    "text": "P\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nidrossido di potassio\nS13\nbasi\n500 g\n1310-58-3\nSDS\n🔴\n\n\nPCR Nucleotide Mix, 10mM\nS13\nfrigo-freezer\n\n\nSDS\n🟠\n\n\npENTR D-TOPO\nS13\nfrigo-freezer\n\n\nSDS\n🟠\n\n\npotassio 4-nitrofenil solfato\nS13\nfrigo-freezer\n\n6217-68-1\nSDS\n🟠\n\n\n2-propanolo\nS13\ninfiamm\n2\n67-63-0\nSDS\n🔴\n\n\nPFW2 Macherey Kit - RNA plant and fungi\nS13\ninfiamm\n0,125\n\nSDS\n🔴\n\n\nPrecipitation buffer (N3) - Purelink HiPure plasmid miniprep kit\nS13\ninfiamm\n0,072\n64-19-7\nSDS\n🔴\n\n\nPFB (lysis buffer) Nucleo Spin RNA Plant and Fungi Kit\nS13\ntossici\n0,090 L\n7447-41-8\nSDS\n🔴\n\n\nPFL (lysis buffer) Nucleo Spin RNA Plant and Fungi Kit\nS13\ntossici\n0,03 L\n60-00-4, 50-01-1\nSDS\n🔴\n\n\nPonceau S\nS13\ntossici\n10 g\n6226-79-5\nSDS\n🔴\n\n\nporpora di bromocresolo sodica\nS13\ntossici\n5 g\n62625-30-3\nSDS\n🔴\n\n\nSS-Perfosfato triplo\nS13\ntossici\n1410 g\n8011-76-5\nSDS\n🔴\n\n\ncloruro di potassio\nS13\nNo tossici\n1000\n7447-40-7\nSDS\n🟠\n\n\nfosfato di potassio monobasico\nS13\nNo tossici\n1500\n7778-77-0\nSDS\n🟠\n\n\nfosfato di potassio dibasico\nS13\nNo tossici\n1000\n04/11/58\nSDS\n🟠\n\n\npeptone\nS13\nNo tossici\n500\n73049-73-7\nSDS\n🟠\n\n\nphyto agar\nS13\nNo tossici\n2000\n9002-18-0\nSDS\n🟠\n\n\npolietilenglicole\nS13\nNo tossici\n600\n25322-68-3\nSDS\n🟠\n\n\npolietilenglicole 6000\nS13\nNo tossici\n1000\n25322-68-3\nSDS\n🟠\n\n\npotassio citrato tribascio monoidrato\nS13\nNo tossici\n500\n06/05/00\nSDS\n🟠\n\n\npotassio solfato\nS13\nNo tossici\n2000\n7778-80-5\nSDS\n🟠"
+    "text": "P\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nidrossido di potassio\nS13\nbasi\n500 g\n1310-58-3\nSDS\n🔴\n\n\nPCR Nucleotide Mix, 10mM\nS13\nfrigo-freezer\n\n\nSDS\n🟠\n\n\npENTR D-TOPO\nS13\nfrigo-freezer\n\n\nSDS\n🟠\n\n\npotassio 4-nitrofenil solfato\nS13\nfrigo-freezer\n\n6217-68-1\nSDS\n🟠\n\n\n2-propanolo\nS13\ninfiamm\n2\n67-63-0\nSDS\n🔴\n\n\nPFW2 Macherey Kit - RNA plant and fungi\nS13\ninfiamm\n0,125\n\nSDS\n🔴\n\n\nPrecipitation buffer (N3) - Purelink HiPure plasmid miniprep kit\nS13\ninfiamm\n0,072\n64-19-7\nSDS\n🔴\n\n\nPFB (lysis buffer) Nucleo Spin RNA Plant and Fungi Kit\nS13\ntossici\n0,090 L\n7447-41-8\nSDS\n🔴\n\n\nPFL (lysis buffer) Nucleo Spin RNA Plant and Fungi Kit\nS13\ntossici\n0,03 L\n60-00-4, 50-01-1\nSDS\n🔴\n\n\nPonceau S\nS13\ntossici\n10 g\n6226-79-5\nSDS\n🔴\n\n\nporpora di bromocresolo sodica\nS13\ntossici\n5 g\n62625-30-3\nSDS\n🔴\n\n\nSS-Perfosfato triplo\nS13\ntossici\n1410 g\n8011-76-5\nSDS\n🔴\n\n\ncloruro di potassio\nS13\nNo tossici\n1000\n7447-40-7\nSDS\n🟢\n\n\nfosfato di potassio monobasico\nS13\nNo tossici\n1500\n7778-77-0\nSDS\n🟢\n\n\nfosfato di potassio dibasico\nS13\nNo tossici\n1000\n04/11/58\nSDS\n🟢\n\n\npeptone\nS13\nNo tossici\n500\n73049-73-7\nSDS\n🟢\n\n\nphyto agar\nS13\nNo tossici\n2000\n9002-18-0\nSDS\n🟢\n\n\npolietilenglicole\nS13\nNo tossici\n600\n25322-68-3\nSDS\n🟢\n\n\npolietilenglicole 6000\nS13\nNo tossici\n1000\n25322-68-3\nSDS\n🟢\n\n\npotassio citrato tribascio monoidrato\nS13\nNo tossici\n500\n06/05/00\nSDS\n🟢\n\n\npotassio solfato\nS13\nNo tossici\n2000\n7778-80-5\nSDS\n🟢"
   },
   {
     "objectID": "reagenti.html#q",
@@ -130,21 +130,21 @@
     "href": "reagenti.html#s",
     "title": "💥 Reagenti",
     "section": "S",
-    "text": "S\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nacido salicilico\nS13\nacidi\n1000 g\n69-72-7\nSDS\n🔴\n\n\nacido solforico 96%\nS13\nacidi\n2,5 L\n7664-93-9\nSDS\n🔴\n\n\nidrossido di sodio\nS13\nbasi\n2000 g\n1310-73-2\nSDS\n🔴\n\n\nsoluzione di 4-nitrofenolo\nS13\nfrigo-freezer\n\n100-02-7\nSDS\n🟠\n\n\nspectinomicina idrocloruro\nS13\nfrigo-freezer\n\n22189-32-8\nSDS\n🟠\n\n\nstreptomicina solfato, sale\nS13\nfrigo-freezer\n\n3810-74-0\nSDS\n🟠\n\n\nsuperscriptII\nS13\nfrigo-freezer\n\n\nSDS\n🟠\n\n\nsodio dodecil solfato\nS13\ninfiamm\n600 g\n151-21-3\nSDS\n🔴\n\n\nSuperdex 30 Increase 10_300 GL\nS13\ninfiamm\n\n\nSDS\n🔴\n\n\nsodio metabisolfito\nS13\ntossici\n500 g\n7681-57-4\nSDS\n🔴\n\n\ncloruro di sodio\nS13\nNo tossici\n3000\n7647-14-5\nSDS\n🟠\n\n\nD-sorbitolo\nS13\nNo tossici\n1000\n50-70-4\nSDS\n🟠\n\n\nfosfato di sodio dibasico eptaidrato\nS13\nNo tossici\n1000\n7782-85-6\nSDS\n🟠\n\n\nfosfato di sodio monobasico\nS13\nNo tossici\n1000\n13472-35-0\nSDS\n🟠\n\n\nsaccarosio\nS13\nNo tossici\n1000\n57-50-1\nSDS\n🟠\n\n\nsolfito di sodio\nS13\nNo tossici\n250\n7757-83-7\nSDS\n🟠"
+    "text": "S\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nacido salicilico\nS13\nacidi\n1000 g\n69-72-7\nSDS\n🔴\n\n\nacido solforico 96%\nS13\nacidi\n2,5 L\n7664-93-9\nSDS\n🔴\n\n\nidrossido di sodio\nS13\nbasi\n2000 g\n1310-73-2\nSDS\n🔴\n\n\nsoluzione di 4-nitrofenolo\nS13\nfrigo-freezer\n\n100-02-7\nSDS\n🟠\n\n\nspectinomicina idrocloruro\nS13\nfrigo-freezer\n\n22189-32-8\nSDS\n🟠\n\n\nstreptomicina solfato, sale\nS13\nfrigo-freezer\n\n3810-74-0\nSDS\n🟠\n\n\nsuperscriptII\nS13\nfrigo-freezer\n\n\nSDS\n🟠\n\n\nsodio dodecil solfato\nS13\ninfiamm\n600 g\n151-21-3\nSDS\n🔴\n\n\nSuperdex 30 Increase 10_300 GL\nS13\ninfiamm\n\n\nSDS\n🔴\n\n\nsodio metabisolfito\nS13\ntossici\n500 g\n7681-57-4\nSDS\n🔴\n\n\ncloruro di sodio\nS13\nNo tossici\n3000\n7647-14-5\nSDS\n🟢\n\n\nD-sorbitolo\nS13\nNo tossici\n1000\n50-70-4\nSDS\n🟢\n\n\nfosfato di sodio dibasico eptaidrato\nS13\nNo tossici\n1000\n7782-85-6\nSDS\n🟢\n\n\nfosfato di sodio monobasico\nS13\nNo tossici\n1000\n13472-35-0\nSDS\n🟢\n\n\nsaccarosio\nS13\nNo tossici\n1000\n57-50-1\nSDS\n🟢\n\n\nsolfito di sodio\nS13\nNo tossici\n250\n7757-83-7\nSDS\n🟢"
   },
   {
     "objectID": "reagenti.html#t",
     "href": "reagenti.html#t",
     "title": "💥 Reagenti",
     "section": "T",
-    "text": "T\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nacido tricloroacetico\nS13\nacidi\n25 g\n76-03-9\nSDS\n🔴\n\n\nturbo DNAse Invitrogen\nS13\nfrigo-freezer\n\n9002-93-1; 56-81-5\nSDS\n🟠\n\n\ntween 20\nS13\nfrigo-freezer\n\n9005-64-5\nSDS\n🟠\n\n\nN,N,N',N'-tetrametiletilendiammina\nS13\ninfiamm\n0,25\n110-18-9\nSDS\n🔴\n\n\nTrizma-base\nS13\ntossici\n1000 g\n77-86-1\nSDS\n🔴\n\n\nL-tirosina\nS13\nNo tossici\n50\n60-18-4\nSDS\n🟠\n\n\ntriptone\nS13\nNo tossici\n1500\n91079-40-2\nSDS\n🟠"
+    "text": "T\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nacido tricloroacetico\nS13\nacidi\n25 g\n76-03-9\nSDS\n🔴\n\n\nturbo DNAse Invitrogen\nS13\nfrigo-freezer\n\n9002-93-1; 56-81-5\nSDS\n🟠\n\n\ntween 20\nS13\nfrigo-freezer\n\n9005-64-5\nSDS\n🟠\n\n\nN,N,N',N'-tetrametiletilendiammina\nS13\ninfiamm\n0,25\n110-18-9\nSDS\n🔴\n\n\nTrizma-base\nS13\ntossici\n1000 g\n77-86-1\nSDS\n🔴\n\n\nL-tirosina\nS13\nNo tossici\n50\n60-18-4\nSDS\n🟢\n\n\ntriptone\nS13\nNo tossici\n1500\n91079-40-2\nSDS\n🟢"
   },
   {
     "objectID": "reagenti.html#u",
     "href": "reagenti.html#u",
     "title": "💥 Reagenti",
     "section": "U",
-    "text": "U\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nurea\nS13\nNo tossici\n1000\n57-13-6\nSDS\n🟠"
+    "text": "U\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nurea\nS13\nNo tossici\n1000\n57-13-6\nSDS\n🟢"
   },
   {
     "objectID": "reagenti.html#v",
@@ -172,7 +172,7 @@
     "href": "reagenti.html#y",
     "title": "💥 Reagenti",
     "section": "Y",
-    "text": "Y\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nYeast synthetic drop-out-medium supplements\nS13\nNo tossici\n20\n\nSDS\n🟠"
+    "text": "Y\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nYeast synthetic drop-out-medium supplements\nS13\nNo tossici\n20\n\nSDS\n🟢"
   },
   {
     "objectID": "reagenti.html#z",
