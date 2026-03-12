@@ -78,15 +78,13 @@ letter_Z <- subset_by_letter(lista_reagenti, "Z")
 
 ```
 
-### Last update: 25 / 12 / 2025
+### Ultimo aggiornamento: 12 / 03 / 2026
 
 ------------------------------------------------------------------------
 
-### Last changes:
+### Ultime modifiche:
 
-- 10/01/2023 - List updated - **Mauro**
-- 16/11/2022 - List updated - **Mauro**
-- 27/01/2022 - List updated - **Mauro**
+- 12/03/2026 - Creazione lista - **Mauro**
 
 ------------------------------------------------------------------------
 
