@@ -1,6 +1,8 @@
 ---
-title: "reagenti"
+title: "💥 Reagenti"
 format: html
+toc: true
+toc-depth: 2
 ---
 
 ```{r setup, include=FALSE}
@@ -19,7 +21,7 @@ lista_reagenti <- read.csv2("reagenti_110326.csv", header = TRUE)
 # filtering for Lab
 #lista <- subset(lista_tot, lab=="E1.20")
 
-#colnames(lista_reagenti) <- c("Nome", "filter_name", "Shelf", "Name", "Weight", "Unit", "Producer", "Quantity", "Code", "sds")
+colnames(lista_reagenti) <- c("Nome", "Codice", "Produttore", "Peso", "Quantità", "Note", "Lab", "Posiz.", "filtro_nome", "filtro_shelf", "filtro_posizione", "CAS", "SDS", "Pericolo")
 
 subset_by_letter <- function(data, letter) {
   output <- subset(data, filtro_nome == letter)
@@ -32,9 +34,9 @@ tab_reagenti <- function(input) {
 
   input %>%
     mutate(SDS = cell_spec("SDS", "html", link = SDS)) %>%
-    select(-c(4,5,9,10,11)) %>%
-    select(nome, lab, posizione, codice, produttore, note, CAS, SDS, pericolo) %>% 
-    mutate(pericolo = recode(pericolo,
+    select(-c(2,3,4,6,9,10,11)) %>%
+    select(Nome, Lab, Posiz., Quantità, CAS, SDS, Pericolo) %>% 
+    mutate(Pericolo = recode(Pericolo,
                          "alto" = "🔴",
                          "medio" = "🟠",
                          "basso" = "🟢")) %>% 
@@ -47,38 +49,48 @@ tab_reagenti <- function(input) {
 
 
 letter_A <- subset_by_letter(lista_reagenti, "A")
-# letter_B <- subset_by_letter(lista, "B")
+letter_B <- subset_by_letter(lista_reagenti, "B")
 letter_C <- subset_by_letter(lista_reagenti, "C")
-# letter_D <- subset_by_letter(lista, "D")
-# letter_E <- subset_by_letter(lista, "E")
-# letter_F <- subset_by_letter(lista, "F")
-# letter_G <- subset_by_letter(lista, "G")
-# letter_H <- subset_by_letter(lista, "H")
-# letter_I <- subset_by_letter(lista, "I")
-# letter_J <- subset_by_letter(lista, "J")
-# letter_K <- subset_by_letter(lista, "K")
-# letter_L <- subset_by_letter(lista, "L")
-# letter_M <- subset_by_letter(lista, "M")
-# letter_N <- subset_by_letter(lista, "N")
-# letter_O <- subset_by_letter(lista, "O")
-# letter_P <- subset_by_letter(lista, "P")
-# letter_Q <- subset_by_letter(lista, "Q")
-# letter_R <- subset_by_letter(lista, "R")
-# letter_S <- subset_by_letter(lista, "S")
-# letter_T <- subset_by_letter(lista, "T")
-# letter_U <- subset_by_letter(lista, "U")
-# letter_V <- subset_by_letter(lista, "V")
-# letter_W <- subset_by_letter(lista, "W")
-# letter_X <- subset_by_letter(lista, "X")
-# letter_Y <- subset_by_letter(lista, "Y")
-# letter_Z <- subset_by_letter(lista, "Z")
+letter_D <- subset_by_letter(lista_reagenti, "D")
+letter_E <- subset_by_letter(lista_reagenti, "E")
+letter_F <- subset_by_letter(lista_reagenti, "F")
+letter_G <- subset_by_letter(lista_reagenti, "G")
+letter_H <- subset_by_letter(lista_reagenti, "H")
+letter_I <- subset_by_letter(lista_reagenti, "I")
+letter_J <- subset_by_letter(lista_reagenti, "J")
+letter_K <- subset_by_letter(lista_reagenti, "K")
+letter_L <- subset_by_letter(lista_reagenti, "L")
+letter_M <- subset_by_letter(lista_reagenti, "M")
+letter_N <- subset_by_letter(lista_reagenti, "N")
+letter_O <- subset_by_letter(lista_reagenti, "O")
+letter_P <- subset_by_letter(lista_reagenti, "P")
+letter_Q <- subset_by_letter(lista_reagenti, "Q")
+letter_R <- subset_by_letter(lista_reagenti, "R")
+letter_S <- subset_by_letter(lista_reagenti, "S")
+letter_T <- subset_by_letter(lista_reagenti, "T")
+letter_U <- subset_by_letter(lista_reagenti, "U")
+letter_V <- subset_by_letter(lista_reagenti, "V")
+letter_W <- subset_by_letter(lista_reagenti, "W")
+letter_X <- subset_by_letter(lista_reagenti, "X")
+letter_Y <- subset_by_letter(lista_reagenti, "Y")
+letter_Z <- subset_by_letter(lista_reagenti, "Z")
 
 
 ```
 
-## Reagents
+### Last update: 25 / 12 / 2025
 
-### A
+------------------------------------------------------------------------
+
+### Last changes:
+
+- 10/01/2023 - List updated - **Mauro**
+- 16/11/2022 - List updated - **Mauro**
+- 27/01/2022 - List updated - **Mauro**
+
+------------------------------------------------------------------------
+
+## A
 
 ```{r echo=FALSE}
 
@@ -86,18 +98,202 @@ tab_reagenti(letter_A)
 
 ```
 
-### B
+## B
 
 ```{r echo=FALSE}
 
-# tab_reagenti(letter_B)
+tab_reagenti(letter_B)
 
 ```
 
-### C
+## C
 
 ```{r echo=FALSE}
 
 tab_reagenti(letter_C)
+
+```
+
+## D
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_D)
+
+```
+
+## E
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_E)
+
+```
+
+## F
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_F)
+
+```
+
+## G
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_G)
+
+```
+
+## H
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_H)
+
+```
+
+## I
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_I)
+
+```
+
+## J
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_J)
+
+```
+
+## K
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_K)
+
+```
+
+## L
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_L)
+
+```
+
+## M
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_M)
+
+```
+
+## N
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_N)
+
+```
+
+## O
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_O)
+
+```
+
+## P
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_P)
+
+```
+
+## Q
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_Q)
+
+```
+
+## R
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_R)
+
+```
+
+## S
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_S)
+
+```
+
+## T
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_T)
+
+```
+
+## U
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_U)
+
+```
+
+## V
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_V)
+
+```
+
+## W
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_W)
+
+```
+
+## X
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_X)
+
+```
+
+## Y
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_Y)
+
+```
+
+## Z
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_Z)
 
 ```

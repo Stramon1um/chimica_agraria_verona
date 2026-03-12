@@ -1,17 +1,185 @@
 [
   {
-    "objectID": "reagenti.html",
-    "href": "reagenti.html",
-    "title": "reagenti",
-    "section": "",
-    "text": "nome\nlab\nposizione\ncodice\nproduttore\nnote\nCAS\nSDS\npericolo\n\n\n\n\n(3-Aminopropyl)trimethoxysilane\nS13\narmadio 1\n281778\nSIGMA\nbrutto\n20283-92-5\nSDS\n🟢\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnome\nlab\nposizione\ncodice\nproduttore\nnote\nCAS\nSDS\npericolo\n\n\n\n\n(+)-Catechin\nS13\nfrigo\n9765\nSIGMA\nbello\n333338-18-4\nSDS\n🔴"
+    "objectID": "reagenti.html#a",
+    "href": "reagenti.html#a",
+    "title": "💥 Reagenti",
+    "section": "A",
+    "text": "A\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\n(3-Aminopropyl)trimethoxysilane\nS13\narmadio 1\n1\n20283-92-5\nSDS\n🟢"
   },
   {
-    "objectID": "reagenti.html#reagents",
-    "href": "reagenti.html#reagents",
-    "title": "reagenti",
-    "section": "",
-    "text": "nome\nlab\nposizione\ncodice\nproduttore\nnote\nCAS\nSDS\npericolo\n\n\n\n\n(3-Aminopropyl)trimethoxysilane\nS13\narmadio 1\n281778\nSIGMA\nbrutto\n20283-92-5\nSDS\n🟢\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnome\nlab\nposizione\ncodice\nproduttore\nnote\nCAS\nSDS\npericolo\n\n\n\n\n(+)-Catechin\nS13\nfrigo\n9765\nSIGMA\nbello\n333338-18-4\nSDS\n🔴"
+    "objectID": "reagenti.html#b",
+    "href": "reagenti.html#b",
+    "title": "💥 Reagenti",
+    "section": "B",
+    "text": "B\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nacido borico\nS13\nacidi\n500 g\n10043-35-3\nSDS\n🔴"
+  },
+  {
+    "objectID": "reagenti.html#c",
+    "href": "reagenti.html#c",
+    "title": "💥 Reagenti",
+    "section": "C",
+    "text": "C\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\n(+)-Catechin\nS13\nfrigo\n1\n333338-18-4\nSDS\n🔴\n\n\nacido citrico monoidrato\nS13\nacidi\n100 g\n5949-29-1\nSDS\n🔴\n\n\nacido cloridrico, 37%\nS13\nacidi\n2,5 L\n7647-01-0\nSDS\n🔴"
+  },
+  {
+    "objectID": "reagenti.html#d",
+    "href": "reagenti.html#d",
+    "title": "💥 Reagenti",
+    "section": "D",
+    "text": "D\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+  },
+  {
+    "objectID": "reagenti.html#e",
+    "href": "reagenti.html#e",
+    "title": "💥 Reagenti",
+    "section": "E",
+    "text": "E\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+  },
+  {
+    "objectID": "reagenti.html#f",
+    "href": "reagenti.html#f",
+    "title": "💥 Reagenti",
+    "section": "F",
+    "text": "F\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nacido fosforico 85%\nS13\nacidi\n1,5 L\n7664-38-2\nSDS\n🔴"
+  },
+  {
+    "objectID": "reagenti.html#g",
+    "href": "reagenti.html#g",
+    "title": "💥 Reagenti",
+    "section": "G",
+    "text": "G\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+  },
+  {
+    "objectID": "reagenti.html#h",
+    "href": "reagenti.html#h",
+    "title": "💥 Reagenti",
+    "section": "H",
+    "text": "H\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+  },
+  {
+    "objectID": "reagenti.html#i",
+    "href": "reagenti.html#i",
+    "title": "💥 Reagenti",
+    "section": "I",
+    "text": "I\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+  },
+  {
+    "objectID": "reagenti.html#j",
+    "href": "reagenti.html#j",
+    "title": "💥 Reagenti",
+    "section": "J",
+    "text": "J\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+  },
+  {
+    "objectID": "reagenti.html#k",
+    "href": "reagenti.html#k",
+    "title": "💥 Reagenti",
+    "section": "K",
+    "text": "K\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+  },
+  {
+    "objectID": "reagenti.html#l",
+    "href": "reagenti.html#l",
+    "title": "💥 Reagenti",
+    "section": "L",
+    "text": "L\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+  },
+  {
+    "objectID": "reagenti.html#m",
+    "href": "reagenti.html#m",
+    "title": "💥 Reagenti",
+    "section": "M",
+    "text": "M\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+  },
+  {
+    "objectID": "reagenti.html#n",
+    "href": "reagenti.html#n",
+    "title": "💥 Reagenti",
+    "section": "N",
+    "text": "N\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+  },
+  {
+    "objectID": "reagenti.html#o",
+    "href": "reagenti.html#o",
+    "title": "💥 Reagenti",
+    "section": "O",
+    "text": "O\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+  },
+  {
+    "objectID": "reagenti.html#p",
+    "href": "reagenti.html#p",
+    "title": "💥 Reagenti",
+    "section": "P",
+    "text": "P\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+  },
+  {
+    "objectID": "reagenti.html#q",
+    "href": "reagenti.html#q",
+    "title": "💥 Reagenti",
+    "section": "Q",
+    "text": "Q\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+  },
+  {
+    "objectID": "reagenti.html#r",
+    "href": "reagenti.html#r",
+    "title": "💥 Reagenti",
+    "section": "R",
+    "text": "R\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+  },
+  {
+    "objectID": "reagenti.html#s",
+    "href": "reagenti.html#s",
+    "title": "💥 Reagenti",
+    "section": "S",
+    "text": "S\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nacido salicilico\nS13\nacidi\n1000 g\n69-72-7\nSDS\n🔴\n\n\nacido solforico 96%\nS13\nacidi\n2,5 L\n7664-93-9\nSDS\n🔴"
+  },
+  {
+    "objectID": "reagenti.html#t",
+    "href": "reagenti.html#t",
+    "title": "💥 Reagenti",
+    "section": "T",
+    "text": "T\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo\n\n\n\n\nacido tricloroacetico\nS13\nacidi\n25 g\n76-03-9\nSDS\n🔴"
+  },
+  {
+    "objectID": "reagenti.html#u",
+    "href": "reagenti.html#u",
+    "title": "💥 Reagenti",
+    "section": "U",
+    "text": "U\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+  },
+  {
+    "objectID": "reagenti.html#v",
+    "href": "reagenti.html#v",
+    "title": "💥 Reagenti",
+    "section": "V",
+    "text": "V\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+  },
+  {
+    "objectID": "reagenti.html#w",
+    "href": "reagenti.html#w",
+    "title": "💥 Reagenti",
+    "section": "W",
+    "text": "W\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+  },
+  {
+    "objectID": "reagenti.html#x",
+    "href": "reagenti.html#x",
+    "title": "💥 Reagenti",
+    "section": "X",
+    "text": "X\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+  },
+  {
+    "objectID": "reagenti.html#y",
+    "href": "reagenti.html#y",
+    "title": "💥 Reagenti",
+    "section": "Y",
+    "text": "Y\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
+  },
+  {
+    "objectID": "reagenti.html#z",
+    "href": "reagenti.html#z",
+    "title": "💥 Reagenti",
+    "section": "Z",
+    "text": "Z\n\n\n\n\n\n\nNome\nLab\nPosiz.\nQuantità\nCAS\nSDS\nPericolo"
   },
   {
     "objectID": "consumabili.html",

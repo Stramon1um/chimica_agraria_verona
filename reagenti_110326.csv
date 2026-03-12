@@ -1,3 +1,10 @@
 nome;codice;produttore;peso;quant;note;lab;posizione;filtro_nome;filtro_shelf;filtro_posizione;CAS;SDS;pericolo
 (+)-Catechin;9765;SIGMA;10 mg;1;bello;S13;frigo;C;s13;frigo;333338-18-4;https://www.sigmaaldrich.com/IT/en/sds/mm/1.60323;alto
 (3-Aminopropyl)trimethoxysilane;281778;SIGMA;500 mL;1;brutto;S13;armadio 1;A;serra;armadio;20283-92-5;ciao2.pdf;basso
+acido borico;;;;500 g;;S13;acidi;B;;;10043-35-3;;alto
+acido citrico monoidrato;;;;100 g;;S13;acidi;C;;;5949-29-1;;alto
+acido cloridrico, 37%;;;;2,5 L;;S13;acidi;C;;;7647-01-0;;alto
+acido fosforico 85%;;;;1,5 L;;S13;acidi;F;;;7664-38-2;;alto
+acido salicilico;;;;1000 g;;S13;acidi;S;;;69-72-7;;alto
+acido solforico 96%;;;;2,5 L;;S13;acidi;S;;;7664-93-9;;alto
+acido tricloroacetico;;;;25 g;;S13;acidi;T;;;76-03-9;;alto
