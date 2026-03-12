@@ -1,0 +1,19 @@
+{
+  "hash": "9af44a048909bc39f467972438a4de02",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"reagenti\"\nformat: html\n---\n\n\n\n\n\n## Reagents\n\n### A\n\n\n::: {.cell}\n::: {.cell-output-display}\n`````{=html}\n<table class=\"table table-striped table-hover table-responsive table-condensed\" style=\"font-size: 16px; margin-left: auto; margin-right: auto;\">\n <thead>\n  <tr>\n   <th style=\"text-align:left;\"> nome </th>\n   <th style=\"text-align:left;\"> lab </th>\n   <th style=\"text-align:left;\"> posizione </th>\n   <th style=\"text-align:left;\"> codice </th>\n   <th style=\"text-align:left;\"> produttore </th>\n   <th style=\"text-align:left;\"> note </th>\n   <th style=\"text-align:left;\"> CAS </th>\n   <th style=\"text-align:left;\"> SDS </th>\n   <th style=\"text-align:left;\"> pericolo </th>\n  </tr>\n </thead>\n<tbody>\n  <tr>\n   <td style=\"text-align:left;\"> (3-Aminopropyl)trimethoxysilane </td>\n   <td style=\"text-align:left;\"> S13 </td>\n   <td style=\"text-align:left;\"> armadio 1 </td>\n   <td style=\"text-align:left;\"> 281778 </td>\n   <td style=\"text-align:left;\"> SIGMA </td>\n   <td style=\"text-align:left;\"> brutto </td>\n   <td style=\"text-align:left;\"> 20283-92-5 </td>\n   <td style=\"text-align:left;\"> <a href=\"ciao2.pdf\" style=\"     \">SDS</a> </td>\n   <td style=\"text-align:left;\"> 🟢 </td>\n  </tr>\n</tbody>\n</table>\n\n`````\n:::\n:::\n\n\n### B\n\n\n::: {.cell}\n\n:::\n\n\n### C\n\n\n::: {.cell}\n::: {.cell-output-display}\n`````{=html}\n<table class=\"table table-striped table-hover table-responsive table-condensed\" style=\"font-size: 16px; margin-left: auto; margin-right: auto;\">\n <thead>\n  <tr>\n   <th style=\"text-align:left;\"> nome </th>\n   <th style=\"text-align:left;\"> lab </th>\n   <th style=\"text-align:left;\"> posizione </th>\n   <th style=\"text-align:left;\"> codice </th>\n   <th style=\"text-align:left;\"> produttore </th>\n   <th style=\"text-align:left;\"> note </th>\n   <th style=\"text-align:left;\"> CAS </th>\n   <th style=\"text-align:left;\"> SDS </th>\n   <th style=\"text-align:left;\"> pericolo </th>\n  </tr>\n </thead>\n<tbody>\n  <tr>\n   <td style=\"text-align:left;\"> (+)-Catechin </td>\n   <td style=\"text-align:left;\"> S13 </td>\n   <td style=\"text-align:left;\"> frigo </td>\n   <td style=\"text-align:left;\"> 9765 </td>\n   <td style=\"text-align:left;\"> SIGMA </td>\n   <td style=\"text-align:left;\"> bello </td>\n   <td style=\"text-align:left;\"> 333338-18-4 </td>\n   <td style=\"text-align:left;\"> <a href=\"https://www.sigmaaldrich.com/IT/en/sds/mm/1.60323\" style=\"     \">SDS</a> </td>\n   <td style=\"text-align:left;\"> 🔴 </td>\n  </tr>\n</tbody>\n</table>\n\n`````\n:::\n:::\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<script src=\"site_libs/kePrint-0.0.1/kePrint.js\"></script>\n<link href=\"site_libs/lightable-0.0.1/lightable.css\" rel=\"stylesheet\" />\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

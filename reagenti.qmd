@@ -3,4 +3,101 @@ title: "reagenti"
 format: html
 ---
 
-ciao da reagenti
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#library(icon)
+library(kableExtra)
+library(formattable)
+library(dplyr)
+```
+
+```{r include=FALSE}
+
+# loading the main table from csv
+lista_reagenti <- read.csv2("reagenti_110326.csv", header = TRUE)
+
+# filtering for Lab
+#lista <- subset(lista_tot, lab=="E1.20")
+
+#colnames(lista_reagenti) <- c("Nome", "filter_name", "Shelf", "Name", "Weight", "Unit", "Producer", "Quantity", "Code", "sds")
+
+subset_by_letter <- function(data, letter) {
+  output <- subset(data, filtro_nome == letter)
+  return(output)
+}
+
+tab_reagenti <- function(input) {
+
+  names(input) <- make.names(names(input), unique = TRUE)
+
+  input %>%
+    mutate(SDS = cell_spec("SDS", "html", link = SDS)) %>%
+    select(-c(4,5,9,10,11)) %>%
+    select(nome, lab, posizione, codice, produttore, note, CAS, SDS, pericolo) %>% 
+    mutate(pericolo = recode(pericolo,
+                         "alto" = "🔴",
+                         "medio" = "🟠",
+                         "basso" = "🟢")) %>% 
+    kable(row.names = FALSE, align = "l", "html", escape = FALSE) %>%
+    kable_styling(
+      bootstrap_options = c("striped", "hover", "responsive", "condensed"),
+      font_size = 16
+    )
+}
+
+
+letter_A <- subset_by_letter(lista_reagenti, "A")
+# letter_B <- subset_by_letter(lista, "B")
+letter_C <- subset_by_letter(lista_reagenti, "C")
+# letter_D <- subset_by_letter(lista, "D")
+# letter_E <- subset_by_letter(lista, "E")
+# letter_F <- subset_by_letter(lista, "F")
+# letter_G <- subset_by_letter(lista, "G")
+# letter_H <- subset_by_letter(lista, "H")
+# letter_I <- subset_by_letter(lista, "I")
+# letter_J <- subset_by_letter(lista, "J")
+# letter_K <- subset_by_letter(lista, "K")
+# letter_L <- subset_by_letter(lista, "L")
+# letter_M <- subset_by_letter(lista, "M")
+# letter_N <- subset_by_letter(lista, "N")
+# letter_O <- subset_by_letter(lista, "O")
+# letter_P <- subset_by_letter(lista, "P")
+# letter_Q <- subset_by_letter(lista, "Q")
+# letter_R <- subset_by_letter(lista, "R")
+# letter_S <- subset_by_letter(lista, "S")
+# letter_T <- subset_by_letter(lista, "T")
+# letter_U <- subset_by_letter(lista, "U")
+# letter_V <- subset_by_letter(lista, "V")
+# letter_W <- subset_by_letter(lista, "W")
+# letter_X <- subset_by_letter(lista, "X")
+# letter_Y <- subset_by_letter(lista, "Y")
+# letter_Z <- subset_by_letter(lista, "Z")
+
+
+```
+
+## Reagents
+
+### A
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_A)
+
+```
+
+### B
+
+```{r echo=FALSE}
+
+# tab_reagenti(letter_B)
+
+```
+
+### C
+
+```{r echo=FALSE}
+
+tab_reagenti(letter_C)
+
+```
