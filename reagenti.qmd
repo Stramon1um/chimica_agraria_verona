@@ -78,6 +78,8 @@ letter_Z <- subset_by_letter(lista_reagenti, "Z")
 
 ```
 
+Lista dei reagenti presenti e disponibili in laboratorio.
+
 ### Ultimo aggiornamento: 12 / 03 / 2026
 
 ------------------------------------------------------------------------
