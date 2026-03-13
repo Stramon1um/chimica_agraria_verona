@@ -15,6 +15,8 @@ website:
         text: 💥 Reagenti
       - href: consumabili.qmd
         text: 🧪 Consumabili
+      - href: protocolli.qmd
+        text: 📄 Protocolli
     right:
       - icon: envelope-fill
         href: mailto:mauro.maver@univr.it
