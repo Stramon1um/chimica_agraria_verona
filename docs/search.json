@@ -200,7 +200,21 @@
     "href": "consumabili.html",
     "title": "🧪 Consumabili",
     "section": "",
-    "text": "ciao da consumabili\n\n\n\n Back to top"
+    "text": "Lista dei consumabili presenti e disponibili in laboratorio."
+  },
+  {
+    "objectID": "consumabili.html#puntali",
+    "href": "consumabili.html#puntali",
+    "title": "🧪 Consumabili",
+    "section": "Puntali",
+    "text": "Puntali\n\n\n\n\n\n\nVolume\nn Bags\nn per Bags/Box\nTotale\n\n\n\n\n5000\n8\n334\n750\n\n\n20\n3\n1000\n3000\n\n\n20\n39\n500\n19500\n\n\n1000\n5\n250\n1250\n\n\n1000\n38\n250\n9500"
+  },
+  {
+    "objectID": "consumabili.html#box-puntali",
+    "href": "consumabili.html#box-puntali",
+    "title": "🧪 Consumabili",
+    "section": "Box Puntali",
+    "text": "Box Puntali\n\n\n\n\n\n\nNome\nVolume\nn Bags\nn per Bags/Box\nTotale\n\n\n\n\n-\n10\n8\n96\n768\n\n\nfiltro\n20\n19\n96\n1824\n\n\nfiltro\n100\n52\n96\n4992\n\n\nfiltro\n1000\n11\n96\n1056"
   },
   {
     "objectID": "protocolli.html",

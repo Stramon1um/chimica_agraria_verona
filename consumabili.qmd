@@ -1,6 +1,73 @@
 ---
 title: "🧪 Consumabili"
 format: html
+toc: true
+toc-depth: 2
 ---
 
-ciao da consumabili
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#library(icon)
+library(kableExtra)
+library(formattable)
+library(dplyr)
+```
+---
+
+```{r include=FALSE}
+
+# loading the main table from csv
+lista_consumabili <- read.csv2("consumabili_180326.csv", header = TRUE)
+
+# filtering for Lab
+#lista <- subset(lista_tot, lab=="E1.20")
+
+colnames(lista_consumabili) <- c("Nome", "Volume", "n Bags", "n per Bags/Box", "Totale", "filtro_nome")
+
+subset_by_filter <- function(data, filter) {
+  output <- subset(data, filtro_nome == filter)
+  return(output)
+}
+
+
+puntali <- subset_by_filter(lista_consumabili, "puntali")
+
+puntali_box <- subset_by_filter(lista_consumabili, "puntali_box")
+
+
+
+
+
+```
+
+Lista dei consumabili presenti e disponibili in laboratorio.
+
+### Ultimo aggiornamento: 18 / 03 / 2026
+
+------------------------------------------------------------------------
+
+### Ultime modifiche:
+
+- 18/03/2026 - Creazione lista - **Mauro**
+
+------------------------------------------------------------------------
+
+## Puntali
+
+```{r echo=FALSE}
+
+puntali[,2:5] %>%
+  kable(row.names = FALSE, align = "l") %>%
+  kable_styling(bootstrap_options = c("striped", "hover","responsive", "condensed"),font_size = 16)
+
+```
+
+## Box Puntali
+
+```{r echo=FALSE}
+
+puntali_box[,1:5] %>%
+  kable(row.names = FALSE, align = "l") %>%
+  kable_styling(bootstrap_options = c("striped", "hover","responsive", "condensed"),font_size = 16)
+
+```

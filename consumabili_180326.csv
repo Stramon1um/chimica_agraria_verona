@@ -1,0 +1,37 @@
+﻿nome;Volume;Bags;n_per_bag;totale;filtro_nome
+puntali;5000;8;334;750;puntali
+eppen;2000;7;500;3500;tubi
+eppen;1500;2;500;1000;tubi
+puntali;20;3;1000;3000;puntali
+puntali;20;39;500;19500;puntali
+puntali;1000;5;250;1250;puntali
+puntali;1000;38;250;9500;puntali
+eppen;2000;5;250;1250;tubi
+cuvette;2000;10;100;1000;cuvette
+-;10;8;96;768;puntali_box
+filtro;20;19;96;1824;puntali_box
+filtro;100;52;96;4992;puntali_box
+filtro;1000;11;96;1056;puntali_box
+kit piastre rt;;5;10;3500;plate
+piastre coltura cellulare 12 wells;;;;90;plate
+rotolo gomma piuma;;;;6;gomma_piuma
+carta mani;;4;2;8;carta
+cuvette;4000;9;100;900;cuvette
+cuvette;2000;12;100;1200;cuvette
+eppen;200;2;1000?;;tubi
+carta filtro ;;2;100;200;carta_filtro
+carta filtro 40;;1;;;carta_filtro
+siringhe;10;4;100;400;siringhe
+siringhe;10;3;100;300;siringhe
+filtri ptfe 45 42 um;;9;500?;;filtri _siringhe
+0.2;;3;;;filtri _siringhe
+falcon;50;20;500;;falcon
+falcon;15;;;300;falcon
+guanti;s;20;100;2000;guanti
+guanti;m;13;100;1300;guanti
+guanti;l;20;100;2000;guanti
+piastre petri tonde;;26;10;260;petri
+piastre tonde grandi;;14;5;70;petri
+bidoni rifiuti semi rigidi;;;;13;bidoni
+bidoni rigidi;;;;5;bidoni
+taniche liquidi ;;;;4;taniche
