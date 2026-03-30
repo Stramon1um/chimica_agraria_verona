@@ -1,19 +1,19 @@
 nome;codice;produttore;peso;quant;note;lab;posizione;filtro_nome;filtro_shelf;filtro_posizione;CAS;SDS;pericolo
-acido borico;;;;500 g;;S13;acidi;B;;;10043-35-3;ciao;alto
-acido citrico monoidrato;;;;100 g;;S13;acidi;C;;;5949-29-1;ciao;alto
-acido cloridrico, 37%;;;;2,5 L;;S13;acidi;C;;;7647-01-0;;alto
-acido fosforico 85%;;;;1,5 L;;S13;acidi;F;;;7664-38-2;;alto
-acido salicilico;;;;1000 g;;S13;acidi;S;;;69-72-7;;alto
-acido solforico 96%;;;;2,5 L;;S13;acidi;S;;;7664-93-9;;alto
-acido tricloroacetico;;;;25 g;;S13;acidi;T;;;76-03-9;;alto
-cloruro di ferro(III) esaidrato;;;;105 g;;S13;acidi;F;;;10025-77-1;;alto
-reagente di Fenolo di Folin-Ciocalteu;;;;0,1 L;;S13;acidi;F;;;;;alto
+acido borico;;;;500 g;;S13;acidi;B;;;10043-35-3;https://www.sigmaaldrich.com/IT/it/sds/sigald/b0394?userType=anonymous;alto
+acido citrico monoidrato;;;;100 g;;S13;acidi;C;;;5949-29-1;https://www.sigmaaldrich.com/IT/it/sds/mm/1.00244?userType=anonymous;alto
+acido cloridrico, 37%;;;;2,5 L;;S13;acidi;C;;;7647-01-0;https://www.sigmaaldrich.com/IT/it/sds/sigald/258148?userType=anonymous;alto
+acido fosforico 85%;;;;1,5 L;;S13;acidi;F;;;7664-38-2;https://www.sigmaaldrich.com/IT/it/sds/sigald/695017?userType=anonymous;alto
+acido salicilico;;;;1000 g;;S13;acidi;S;;;69-72-7;https://www.sigmaaldrich.com/IT/it/sds/sial/247588?userType=anonymous;alto
+acido solforico 96%;;;;2,5 L;;S13;acidi;S;;;7664-93-9;https://www.sigmaaldrich.com/IT/it/sds/sigald/258105?userType=anonymous;alto
+acido tricloroacetico;;;;25 g;;S13;acidi;T;;;76-03-9;https://www.sigmaaldrich.com/IT/it/sds/sial/t6399?userType=anonymous;alto
+cloruro di ferro(III) esaidrato;;;;105 g;;S13;acidi;F;;;10025-77-1;https://www.sigmaaldrich.com/IT/it/sds/mm/1.03943?userType=anonymous;alto
+reagente di Fenolo di Folin-Ciocalteu;;;;0,1 L;;S13;acidi;F;;;;https://www.sigmaaldrich.com/IT/it/sds/sial/f9252?userType=anonymous;alto
 idrossido di colina;;;;0,2 L;;S13;basi;C;;;123-41-1;;alto
 idrossido di potassio;;;;500 g;;S13;basi;P;;;1310-58-3;;alto
 idrossido di sodio;;;;2000 g;;S13;basi;S;;;1310-73-2;;alto
 Lysis buffer Plasmid Mini KIT (L7);;;;0,072 L;;S13;comb;L;;;"1310-73-2; 151-21-3";;alto
 nitrato di calcio 15N;;;;3 g;;S13;comb;C;;;31432-44-7;;alto
-nitrato di calcio tetraidrato;;;;2000 g;;S13;comb;C;;;13477-34-4;;alto
+nitrato di calcio tetraidrato;;;;2000 g;;S13;comb;C;;;13477-34-4;/reagenti/acidi/acido_borico.pdf;alto
 nitrato di ferro(III) nonaidrato;;;;1000 g;;S13;comb;F;;;7782-61-8;;alto
 potassio nitrato 15N;;;;53 g;;S13;comb;N;;;57654-83-8;;alto
 potassio nitrato;;;;1500 g;;S13;comb;N;;;7757-79-1;;alto
