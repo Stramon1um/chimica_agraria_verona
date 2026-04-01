@@ -81,11 +81,13 @@ letter_Z <- subset_by_letter(lista_reagenti, "Z")
 
 Lista dei reagenti presenti e disponibili in laboratorio.
 
-### Ultimo aggiornamento: 12 / 03 / 2026
+### Ultimo aggiornamento: 01 / 04 / 2026
 
 ------------------------------------------------------------------------
 
 ### Ultime modifiche:
+
+- 01/04/2026 - Aggiunta pdf SDS e aggiornamento Pericoli - **Mauro**
 
 - 12/03/2026 - Creazione lista - **Mauro**
 
