@@ -149,13 +149,13 @@ tab_reagenti(letter_G)
 
 ```
 
-## H
+<!-- ## H -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_H)
+<!-- tab_reagenti(letter_H) -->
 
-```
+<!-- ``` -->
 
 ## I
 
@@ -165,21 +165,21 @@ tab_reagenti(letter_I)
 
 ```
 
-## J
+<!-- ## J -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_J)
+<!-- tab_reagenti(letter_J) -->
 
-```
+<!-- ``` -->
 
-## K
+<!-- ## K -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_K)
+<!-- tab_reagenti(letter_K) -->
 
-```
+<!-- ``` -->
 
 ## L
 
@@ -205,13 +205,13 @@ tab_reagenti(letter_N)
 
 ```
 
-## O
+<!-- ## O -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_O)
+<!-- tab_reagenti(letter_O) -->
 
-```
+<!-- ``` -->
 
 ## P
 
@@ -269,21 +269,21 @@ tab_reagenti(letter_V)
 
 ```
 
-## W
+<!-- ## W -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_W)
+<!-- tab_reagenti(letter_W) -->
 
-```
+<!-- ``` -->
 
-## X
+<!-- ## X -->
 
-```{r echo=FALSE}
+<!-- ```{r echo=FALSE} -->
 
-tab_reagenti(letter_X)
+<!-- tab_reagenti(letter_X) -->
 
-```
+<!-- ``` -->
 
 ## Y
 

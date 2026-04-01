@@ -56,32 +56,11 @@
     "text": "G\n\n\n\n\n\n\nNome\nLab\nPosiz.\nCAS\nSDS\nPericolo\n\n\n\n\nGateway KIT\nS13\nfrigo-freezer\n39450-01-6, 56-81-5,\nSDS\n🟢\n\n\nGoScript Reverse Transcriptase\nS13\nfrigo-freezer\n1185-53-1\nSDS\n🟢\n\n\nGO Taq G2 DNA polymerase (Promega)\nS13\nfrigo-freezer\n56-81-5; 57-50-1\nSDS\n🟢\n\n\nbeta-D-glucopiranoside di 4-nitrofenile\nS13\nfrigo-freezer\n2492-87-7\nSDS\n🟠\n\n\nD-glucosio\nS13\nNo tossici\n50-99-7\nSDS\n🟢\n\n\nD-glucosio monoidrato\nS13\nNo tossici\n01/10/96\nSDS\n🟢\n\n\nglicerina\nS13\nNo tossici\n56-81-5\nSDS\n🟢\n\n\nglicerolo\nS13\nNo tossici\n56-81-5\nSDS\n🟢\n\n\nglicina\nS13\nNo tossici\n56-40-6\nSDS\n🟢\n\n\ngoethite\nS13\nNo tossici\n20344-49-4\nSDS\n🟢"
   },
   {
-    "objectID": "reagenti.html#h",
-    "href": "reagenti.html#h",
-    "title": "💥 Reagenti",
-    "section": "H",
-    "text": "H\n\n\n\n\n\n\nNome\nLab\nPosiz.\nCAS\nSDS\nPericolo"
-  },
-  {
     "objectID": "reagenti.html#i",
     "href": "reagenti.html#i",
     "title": "💥 Reagenti",
     "section": "I",
     "text": "I\n\n\n\n\n\n\nNome\nLab\nPosiz.\nCAS\nSDS\nPericolo\n\n\n\n\nIPTG\nS13\nfrigo-freezer\n367-93-1\nSDS\n🟠"
-  },
-  {
-    "objectID": "reagenti.html#j",
-    "href": "reagenti.html#j",
-    "title": "💥 Reagenti",
-    "section": "J",
-    "text": "J\n\n\n\n\n\n\nNome\nLab\nPosiz.\nCAS\nSDS\nPericolo"
-  },
-  {
-    "objectID": "reagenti.html#k",
-    "href": "reagenti.html#k",
-    "title": "💥 Reagenti",
-    "section": "K",
-    "text": "K\n\n\n\n\n\n\nNome\nLab\nPosiz.\nCAS\nSDS\nPericolo"
   },
   {
     "objectID": "reagenti.html#l",
@@ -103,13 +82,6 @@
     "title": "💥 Reagenti",
     "section": "N",
     "text": "N\n\n\n\n\n\n\nNome\nLab\nPosiz.\nCAS\nSDS\nPericolo\n\n\n\n\n4-nitrofenil fosfato sale disodico esaidrato\nS13\nfrigo-freezer\n333338-18-4\nSDS\n🟢\n\n\nnicotianamina\nS13\nfrigo-freezer\n34441-14-0\nSDS\n🟢\n\n\nsoluzione di 4-nitrofenolo\nS13\nfrigo-freezer\n100-02-7\nSDS\n🟠\n\n\nbeta-Nicotinamide adenine dinucleotide phosphate, reduced tetra(cyclohexylammonium) salt\nS13\nfrigo-freezer\n100929-71-3\nSDS\n🟢"
-  },
-  {
-    "objectID": "reagenti.html#o",
-    "href": "reagenti.html#o",
-    "title": "💥 Reagenti",
-    "section": "O",
-    "text": "O\n\n\n\n\n\n\nNome\nLab\nPosiz.\nCAS\nSDS\nPericolo"
   },
   {
     "objectID": "reagenti.html#p",
@@ -161,27 +133,6 @@
     "text": "V\n\n\n\n\n\n\nNome\nLab\nPosiz.\nCAS\nSDS\nPericolo\n\n\n\n\nossido di vanadio(V)\nS13\ntossici\n1314-62-1\nSDS\n🔴"
   },
   {
-    "objectID": "reagenti.html#w",
-    "href": "reagenti.html#w",
-    "title": "💥 Reagenti",
-    "section": "W",
-    "text": "W\n\n\n\n\n\n\nNome\nLab\nPosiz.\nCAS\nSDS\nPericolo"
-  },
-  {
-    "objectID": "reagenti.html#x",
-    "href": "reagenti.html#x",
-    "title": "💥 Reagenti",
-    "section": "X",
-    "text": "X\n\n\n\n\n\n\nNome\nLab\nPosiz.\nCAS\nSDS\nPericolo"
-  },
-  {
-    "objectID": "reagenti.html#y",
-    "href": "reagenti.html#y",
-    "title": "💥 Reagenti",
-    "section": "Y",
-    "text": "Y\n\n\n\n\n\n\nNome\nLab\nPosiz.\nCAS\nSDS\nPericolo\n\n\n\n\n\"miscela per lieviti Yeast Nitrogen Base senza amminoacidi\"\nS13\nNo tossici\n10043-52-4\nSDS\n🟠\n\n\nYeast synthetic drop-out-medium supplements\nS13\nNo tossici\n\nSDS\n🟢"
-  },
-  {
     "objectID": "reagenti.html#z",
     "href": "reagenti.html#z",
     "title": "💥 Reagenti",
@@ -222,5 +173,12 @@
     "title": "📄 Protocolli",
     "section": "",
     "text": "ciao da protocolli\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "reagenti.html#y",
+    "href": "reagenti.html#y",
+    "title": "💥 Reagenti",
+    "section": "Y",
+    "text": "Y\n\n\n\n\n\n\nNome\nLab\nPosiz.\nCAS\nSDS\nPericolo\n\n\n\n\n\"miscela per lieviti Yeast Nitrogen Base senza amminoacidi\"\nS13\nNo tossici\n10043-52-4\nSDS\n🟠\n\n\nYeast synthetic drop-out-medium supplements\nS13\nNo tossici\n\nSDS\n🟢"
   }
 ]
