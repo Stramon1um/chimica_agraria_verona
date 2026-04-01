@@ -1,0 +1,169 @@
+nome;codice;produttore;peso;quant;note;lab;posizione;filtro_nome;filtro_shelf;filtro_posizione;CAS;SDS;pericolo
+acido borico;;;;500 g;;S13;acidi;B;;;10043-35-3;https://www.sigmaaldrich.com/IT/it/sds/sigald/b0394?userType=anonymous;alto
+acido citrico monoidrato;;;;100 g;;S13;acidi;C;;;5949-29-1;https://www.sigmaaldrich.com/IT/it/sds/mm/1.00244?userType=anonymous;alto
+acido cloridrico, 37%;;;;2,5 L;;S13;acidi;C;;;7647-01-0;https://www.sigmaaldrich.com/IT/it/sds/sigald/258148?userType=anonymous;alto
+acido fosforico 85%;;;;1,5 L;;S13;acidi;F;;;7664-38-2;https://www.sigmaaldrich.com/IT/it/sds/sigald/695017?userType=anonymous;alto
+acido salicilico;;;;1000 g;;S13;acidi;S;;;69-72-7;https://www.sigmaaldrich.com/IT/it/sds/sial/247588?userType=anonymous;alto
+acido solforico 96%;;;;2,5 L;;S13;acidi;S;;;7664-93-9;https://www.sigmaaldrich.com/IT/it/sds/sigald/258105?userType=anonymous;alto
+acido tricloroacetico;;;;25 g;;S13;acidi;T;;;76-03-9;https://www.sigmaaldrich.com/IT/it/sds/sial/t6399?userType=anonymous;alto
+cloruro di ferro(III) esaidrato;;;;105 g;;S13;acidi;F;;;10025-77-1;https://www.sigmaaldrich.com/IT/it/sds/mm/1.03943?userType=anonymous;alto
+reagente di Fenolo di Folin-Ciocalteu;;;;0,1 L;;S13;acidi;F;;;;https://www.sigmaaldrich.com/IT/it/sds/sial/f9252?userType=anonymous;alto
+idrossido di colina;;;;0,2 L;;S13;basi;C;;;123-41-1;;alto
+idrossido di potassio;;;;500 g;;S13;basi;P;;;1310-58-3;;alto
+idrossido di sodio;;;;2000 g;;S13;basi;S;;;1310-73-2;;alto
+Lysis buffer Plasmid Mini KIT (L7);;;;0,072 L;;S13;comb;L;;;"1310-73-2; 151-21-3";;alto
+nitrato di calcio 15N;;;;3 g;;S13;comb;C;;;31432-44-7;;alto
+nitrato di calcio tetraidrato;;;;2000 g;;S13;comb;C;;;13477-34-4;/SDS/reagenti/acidi/acido_borico.pdf;alto
+nitrato di ferro(III) nonaidrato;;;;1000 g;;S13;comb;F;;;7782-61-8;;alto
+potassio nitrato 15N;;;;53 g;;S13;comb;N;;;57654-83-8;;alto
+potassio nitrato;;;;1500 g;;S13;comb;N;;;7757-79-1;;alto
+4-nitrofenil fosfato sale disodico esaidrato;;;;;;S13;frigo-freezer;N;;;333338-18-4;;medio
+10 MM DNTP MIX;;;;;;S13;frigo-freezer;D;;;;;medio
+acido 2'-deossimugineico;;;;;;S13;frigo-freezer;D;;;74235-24-8;;medio
+acido rosmarinico;;;;;;S13;frigo-freezer;R;;;20283-92-5;;medio
+acido siringico;;;;;;S13;frigo-freezer;s;;;530-57-4;;medio
+adenosina 5'-trifosfato (ATP) sale disodico idrato;;;;;;S13;frigo-freezer;a;;;987-65-5;;medio
+albumina di siero bovino;;;;;;S13;frigo-freezer;A;;;9048-46-8;;medio
+ampicillina sale sodico;;;;;;S13;frigo-freezer;A;;;69-52-3;;medio
+calcio nitrato soluzione 0.5 M;;;;;;S13;frigo-freezer;C;;;13477-34-4;;medio
+calcio solfato soluzione 10 mM;;;;;;S13;frigo-freezer;C;;;10034-76-1;;medio
+chimostatina;;;;;;S13;frigo-freezer;C;;;9076-44-2;;medio
+Collagene;;;;;;S13;frigo-freezer;C;;;9007-34-5;;medio
+EuroSafe Fluorescent Nucleic Acid Stain 20.000X;;;;;;S13;frigo-freezer;E;;;;;medio
+Fast SYBR Master Mix;;;;;;S13;frigo-freezer;F;;;56-81-5;;medio
+Fe-Na-EDDHA solutione 20 mM;;;;;;S13;frigo-freezer;F;;;16455-61-1;;medio
+Fe-Na-EDTA solutione 20 mM;;;;;;S13;frigo-freezer;F;;;15708-41-5;;medio
+fusicoccina;;;;;;S13;frigo-freezer;F;;;20108-30-9;;medio
+Gateway KIT;;;;;;S13;frigo-freezer;G;;;39450-01-6, 56-81-5,;;medio
+GoScript Reverse Transcriptase;;;;;;S13;frigo-freezer;G;;;1185-53-1;;medio
+GO Taq G2 DNA polymerase (Promega);;;;;;S13;frigo-freezer;G;;;"56-81-5; 57-50-1";;medio
+IPTG;;;;;;S13;frigo-freezer;I;;;367-93-1;;medio
+latte in polvere senza grassi;;;;;;S13;frigo-freezer;L;;;;;medio
+malvidina 3-glucoside cloruro;;;;;;S13;frigo-freezer;M;;;7228-78-6;;medio
+nicotianamina;;;;;;S13;frigo-freezer;N;;;34441-14-0;;medio
+PCR Nucleotide Mix, 10mM;;;;;;S13;frigo-freezer;P;;;;;medio
+pENTR D-TOPO;;;;;;S13;frigo-freezer;P;;;;;medio
+potassio 4-nitrofenil solfato;;;;;;S13;frigo-freezer;P;;;6217-68-1;;medio
+rac-glicerol-1-fosfato di sodio idrato;;;;;;S13;frigo-freezer;R;;;;;medio
+rifampicina;;;;;;S13;frigo-freezer;R;;;13292-46-1;;medio
+RNaseOUT Recombinant Ribonuclease Inhibitor;;;;;;S13;frigo-freezer;R;;;56-81-5;;medio
+RQ1 RNase-Free Dnase;;;;;;S13;frigo-freezer;R;;;56-81-5;;medio
+soluzione di 4-nitrofenolo;;;;;;S13;frigo-freezer;S;;;100-02-7;;medio
+spectinomicina idrocloruro;;;;;;S13;frigo-freezer;S;;;22189-32-8;;medio
+streptomicina solfato, sale;;;;;;S13;frigo-freezer;S;;;3810-74-0;;medio
+superscriptII;;;;;;S13;frigo-freezer;S;;;;;medio
+turbo DNAse Invitrogen;;;;;;S13;frigo-freezer;T;;;"9002-93-1; 56-81-5";;medio
+tween 20;;;;;;S13;frigo-freezer;T;;;9005-64-5;;medio
+beta-D-glucopiranoside di 4-nitrofenile;;;;;;S13;frigo-freezer;G;;;2492-87-7;;medio
+beta-Nicotinamide adenine dinucleotide phosphate, reduced tetra(cyclohexylammonium) salt;;;;;;S13;frigo-freezer;N;;;100929-71-3;;medio
+Qubit kit;;;;;;S13;frigo-freezer;Q;;;;;medio
+2-propanolo;;;;2;;S13;infiamm;P;;;67-63-0;;alto
+acetone;;;;1;;S13;infiamm;A;;;67-64-1;;alto
+acido acetico 100%;;;;2,5;;S13;infiamm;A;;;64-19-7;;alto
+etanolo;;;;4,5;;S13;infiamm;E;;;64-17-5;;alto
+metanolo;;;;5;;S13;infiamm;M;;;67-56-1;;alto
+N,N,N',N'-tetrametiletilendiammina;;;;0,25;;S13;infiamm;T;;;110-18-9;;alto
+PFW2 Macherey Kit - RNA plant and fungi;;;;0,125;;S13;infiamm;P;;;;;alto
+Precipitation buffer (N3) - Purelink HiPure plasmid miniprep kit;;;;0,072;;S13;infiamm;P;;;64-19-7;;alto
+sodio dodecil solfato;;;;600 g;;S13;infiamm;S;;;151-21-3;;alto
+Superdex 30 Increase 10_300 GL;;;;;;S13;infiamm;S;;;;;alto
+3-(2-piridil)-5,6-difenil-1,2,4-triazin-P,P_-disolfonato di monosodio (ferrozine);;;;10 g;;S13;tossici;F;;;69898-45-9;;alto
+acido 3-morfolino-propansolfonico (MOPS);;;;100 g;;S13;tossici;M;;;1132-61-2;;alto
+acido dietilentriammin-pentaacetico (EDPA);;;;250 g;;S13;tossici;E;;;67-43-6;;alto
+acido etilendiamminotetraacetico, sale disodico (Na-EDTA);;;;250 g;;S13;tossici;E;;;6381-92-6;;alto
+adenina emisolfato sale;;;;5 g;;S13;tossici;A;;;321-30-2;;alto
+ammonio molibdato tetraidrato;;;;200 g;;S13;tossici;M;;;12054-85-2;;alto
+azide di sodio;;;;100 g;;S13;tossici;A;;;26628-22-8;;alto
+cloruro di ammonio;;;;500 g;;S13;tossici;A;;;12125-02-9;;alto
+cloruro di calcio;;;;500 g;;S13;tossici;C;;;10043-52-4;;alto
+cloruro di colina;;;;100 g;;S13;tossici;C;;;67-48-1;;alto
+cloruro di manganese (II) tetraidrato;;;;33 g;;S13;tossici;M;;;13446-34-9;;alto
+colina ioduro;;;;250 g;;S13;tossici;C;;;17773-10-3;;alto
+EDTA sale monosodico di ferro;;;;500 g;;S13;tossici;E;;;15708-41-5;;alto
+ferro solfato eptaidrato;;;;100 g;;S13;tossici;F;;;7782-63-0;;alto
+fosfato di ferro(III) diidrato;;;;250 g;;S13;tossici;F;;;13463-10-0;;alto
+Murashige and Skooge medium;;;;646 g;;S13;tossici;M;;;;;alto
+ossido di vanadio(V);;;;100 g;;S13;tossici;V;;;1314-62-1;;alto
+PFB (lysis buffer) Nucleo Spin RNA Plant and Fungi Kit;;;;0,090 L;;S13;tossici;P;;;7447-41-8;;alto
+PFL (lysis buffer) Nucleo Spin RNA Plant and Fungi Kit;;;;0,03 L;;S13;tossici;P;;;60-00-4, 50-01-1;;alto
+Ponceau S;;;;10 g;;S13;tossici;P;;;6226-79-5;;alto
+porpora di bromocresolo sodica;;;;5 g;;S13;tossici;P;;;62625-30-3;;alto
+reagente di Fiske-Subbarow;;;;50 g;;S13;tossici;F;;;7681-57-4;;alto
+reattivo di Lugol;;;;0,1 L;;S13;tossici;L;;;;;alto
+sodio metabisolfito;;;;500 g;;S13;tossici;S;;;7681-57-4;;alto
+solfato di ammonio;;;;100 g;;S13;tossici;A;;;7783-20-2;;alto
+solfato di manganese (II) monoidrato;;;;1000 g;;S13;tossici;M;;;10034-96-5;;alto
+solfato di rame(II) pentaidrato;;;;1000 g;;S13;tossici;R;;;7758-99-8;;alto
+solfato di zinco eptaidrato;;;;1000 g;;S13;tossici;Z;;;7446-20-0;;alto
+SS-Perfosfato triplo;;;;1410 g;;S13;tossici;P;;;8011-76-5;;alto
+tartrato di antimonio (III) e potassio idrato;;;;100 g;;S13;tossici;A;;;331753-56-1;;alto
+Trizma-base;;;;1000 g;;S13;tossici;T;;;77-86-1;;alto
+acetato di sodio triidrato;;;;250;;S13;No tossici;A;;;6131-90-4;;basso
+acido L-ascorbico;;;;1100;;S13;No tossici;A;;;50-81-7;;basso
+acido tetraacetico etilenico-bis(2-aminoetiletere)-N,N,N,N;;;;100;;S13;No tossici;A;;;67-42-5;;basso
+agar;;;;1000;;S13;No tossici;A;;;9002-18-0;;basso
+agarosio;;;;500;;S13;No tossici;A;;;9012-36-6;;basso
+ammonio fosfato monobasico;;;;500;;S13;No tossici;A;;;7722-76-1;;basso
+bicarbonato di sodio;;;;1500;;S13;No tossici;B;;;144-55-8;;basso
+bicina;;;;25;;S13;No tossici;B;;;150-25-4;;basso
+BIS-TRIS propano;;;;200;;S13;No tossici;B;;;64431-96-5;;basso
+blu bromofenolo;;;;25;;S13;No tossici;B;;;115-39-9;;basso
+blu destrano;;;;5;;S13;No tossici;B;;;87915-38-6;;basso
+Brilliant blue R;;;;25;;S13;No tossici;B;;;6104-59-2;;basso
+calcio solfato diidradato;;;;1000;;S13;No tossici;C;;;10101-41-4;;basso
+calcio solfato emiidrato;;;;1000;;S13;No tossici;C;;;10034-76-1;;basso
+Carbonato di calcio;;;;3000;;S13;No tossici;C;;;471-34-1;;basso
+carbone attivo;;;;250;;S13;No tossici;C;;;7440-44-0;;basso
+caseina di latte di mucca;;;;100;;S13;No tossici;C;;;9000-71-9;;basso
+cellulosa fosfato;;;;100;;S13;No tossici;C;;;9015-14-9;;basso
+citrato di sodio tribasico diidrato;;;;2000;;S13;No tossici;C;;;03/04/32;;basso
+cloruro di magnesio esaidrato;;;;1000;;S13;No tossici;M;;;7791-18-6;;basso
+cloruro di potassio;;;;1000;;S13;No tossici;P;;;7447-40-7;;basso
+cloruro di sodio;;;;3000;;S13;No tossici;S;;;7647-14-5;;basso
+destrano;;;;50;;S13;No tossici;D;;;9004-54-0;;basso
+Drierite, senza indicatore;;;;500;;S13;No tossici;D;;;7778-18-9;;basso
+D-glucosio;;;;100;;S13;No tossici;G;;;50-99-7;;basso
+D-glucosio monoidrato;;;;1000;;S13;No tossici;G;;;01/10/96;;basso
+D-sorbitolo;;;;1000;;S13;No tossici;S;;;50-70-4;;basso
+estratto di lievito;;;;1500;;S13;No tossici;E;;;02/01/13;;basso
+EDDHA ferric;;;;1250;;S13;No tossici;E;;;84539-55-9;;basso
+fosfato di potassio monobasico;;;;1500;;S13;No tossici;P;;;7778-77-0;;basso
+fosfato di potassio dibasico;;;;1000;;S13;No tossici;P;;;04/11/58;;basso
+fosfato di sodio dibasico eptaidrato;;;;1000;;S13;No tossici;S;;;7782-85-6;;basso
+fosfato di sodio monobasico;;;;1000;;S13;No tossici;S;;;13472-35-0;;basso
+glicerina;;;;0.5 L;;S13;No tossici;G;;;56-81-5;;basso
+glicerolo;;;;1 L;;S13;No tossici;G;;;56-81-5;;basso
+glicina;;;;3000;;S13;No tossici;G;;;56-40-6;;basso
+goethite;;;;200;;S13;No tossici;G;;;20344-49-4;;basso
+LB-brodo, contenuto di sale alto;;;;1000;;S13;No tossici;L;;;;;basso
+L-tirosina;;;;50;;S13;No tossici;T;;;60-18-4;;basso
+litio acetato diidrato;;;;25;;S13;No tossici;L;;;6108-17-4;;basso
+MES idrato;;;;350;;S13;No tossici;M;;;145224-94-8;;basso
+"""miscela per lieviti Yeast Nitrogen Base senza amminoacidi""";;;;250;;S13;No tossici;M;;;10043-52-4;;basso
+molibdato di sodio diidrato;;;;400;;S13;No tossici;M;;;10102-40-6;;basso
+N-dodecyl beta-D-maltoside;;;;0,5;;S13;No tossici;M;;;69227-93-6;;basso
+peptone;;;;500;;S13;No tossici;P;;;73049-73-7;;basso
+phyto agar;;;;2000;;S13;No tossici;P;;;9002-18-0;;basso
+polietilenglicole;;;;600;;S13;No tossici;P;;;25322-68-3;;basso
+polietilenglicole 6000;;;;1000;;S13;No tossici;P;;;25322-68-3;;basso
+potassio citrato tribascio monoidrato;;;;500;;S13;No tossici;P;;;06/05/00;;basso
+potassio solfato;;;;2000;;S13;No tossici;P;;;7778-80-5;;basso
+saccarosio;;;;1000;;S13;No tossici;S;;;57-50-1;;basso
+solfato di magnesio eptaidrato;;;;2500;;S13;No tossici;M;;;10034-99-8;;basso
+solfito di sodio;;;;250;;S13;No tossici;S;;;7757-83-7;;basso
+triptone;;;;1500;;S13;No tossici;T;;;91079-40-2;;basso
+trisodio citrato diidrato;;;;500;;S13;No tossici;C;;;03/04/32;;basso
+urea;;;;1000;;S13;No tossici;U;;;57-13-6;;basso
+Yeast synthetic drop-out-medium supplements;;;;20;;S13;No tossici;Y;;;;;basso
+amberlite IR120 Na+ form;;;;250 g;;S13;tossici;A;;;9002-23-7;;medio
+Amberlite IR402 chloride form;;;;250 g;;S13;tossici;A;;;52439-77-7;;medio
+ammonio-15N solfato;;;;4 g;;S13;tossici;A;;;43086-58-4;;medio
+Brij58;;;;100 g;;S13;tossici;B;;;9004-95-9;;medio
+dimetilsolfossido;;;;2,050 L;;S13;tossici;D;;;67-68-5;;medio
+ioduro di potassio;;;;500 g;;S13;tossici;P;;;7681-11-0;;medio
+Nero eriocromo T;;;;100 g;;S13;tossici;N;;;1787-61-7;;medio
+ossido di ferro(III)57;;;;0,1 g;;S13;tossici;F;;;1309-37-1;;medio
+ossido di magnesio26;;;;0,3 g;;S13;tossici;M;;;1309-48-4;;medio
+polivinilpirrolidone - PVP;;;;500 g;;S13;tossici;P;;;25249-54-1;;medio
+poli(vinylpolipirrolidone) - PVPP;;;;500 g;;S13;tossici;P;;;9003-39-8;;medio
+salicilato di sodio;;;;250 g;;S13;tossici;S;;;54-21-7;;medio
