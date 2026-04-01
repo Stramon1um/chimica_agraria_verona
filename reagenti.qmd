@@ -35,8 +35,8 @@ tab_reagenti <- function(input) {
   input %>%
     #mutate(SDS = cell_spec("SDS", "html", link = SDS)) %>%
     mutate(SDS = sprintf('<a href="%s">SDS</a>', SDS)) %>%
-    select(-c(2,3,4,6,9,10,11)) %>%
-    select(Nome, Lab, Posiz., Quantità, CAS, SDS, Pericolo) %>% 
+    select(-c(2,3,4,5,6,9,10,11)) %>%
+    select(Nome, Lab, Posiz., CAS, SDS, Pericolo) %>% 
     mutate(Pericolo = recode(Pericolo,
                          "alto" = "🔴",
                          "medio" = "🟠",
